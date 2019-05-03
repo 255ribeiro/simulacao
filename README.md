@@ -1,2 +1,2 @@
 # Simulação
-Registros de aulas sobre Simulação e otimização
+Registros de aulas sobre simulação e otimização
