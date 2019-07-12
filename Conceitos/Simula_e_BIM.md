@@ -1,7 +1,5 @@
 # Simulação e BIM
 
-## Parte I
-
 ## Conceito de BIM
 
 O termo Building Information Model (BIM) aparece pela primeira vez, nesta pesquisa, entre as palavras-chaves do artigo de Nederveen e Tolman (1992). A definição do termo entre os artigos mais citados e que estão no escopo desta pesquisa é de Succar (2009), que usa um trecho de Penttilä (2006).
