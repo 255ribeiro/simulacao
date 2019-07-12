@@ -16,5 +16,5 @@ _________________
     1. Outros estudos que se entenda pertinente
 
 1. Entrega
-    1. Até quinze(15) dias após o fim das aulas da discipliata
+    1. deve ser feita em até quinze(15) dias após o fim das aulas da disciplina
     1. Em arquivo digital
