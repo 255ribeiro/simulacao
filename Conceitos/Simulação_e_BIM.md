@@ -8,6 +8,9 @@ Succar afirma que **BIM é um conjunto de políticas, processos e tecnologias qu
 
 [Trecho do artigo: ALBERTO, J.; RUSCHEL, R. C. A evolução do significado atribuído ao acrônimo BIM : Uma perspectiva no tempo The evolution of the meaning ascribed to the acronym BIM : A perspective in timeSIGraDi 2017, XXI Congreso de la Sociedad Ibero-americana de Gráfica Digital. Anais...Concepcíon, Chile: 2017](https://www.proceedings.blucher.com.br/article-details/a-evoluo-do-significado-atribudo-ao-acrnimo-bim-uma-perspectiva-no-tempo-27662)
 
+### Ciclo de vida da edficação
+![imagem](https://www.tase.be/sites/default/files/bim-cycle.jpg)
+
 ## Conceito de Simulação Computacional
 
 Computer simulation, the use of a computer to represent the **dynamic responses of one system by the behaviour of another system modeled after it**. A simulation uses a mathematical description, or model, of a real system in the form of a computer program. **This model is composed of equations that duplicate the functional relationships within the real system.** When the program is run, the resulting mathematical dynamics form an analog of the behaviour of the real system, with the results presented in the form of data.
