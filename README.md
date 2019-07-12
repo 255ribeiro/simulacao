@@ -1,6 +1,7 @@
 # Simulação
 
-Registros de aulas sobre simulação e otimização
+## Parte I
+[arquivos parte I](.\Arquivos\Arquivos_Parte_I.zip)
 
 ## [Simulação e Bim - Conceitos](.\Conceitos\Simulação_e_BIM.md)
 
@@ -76,9 +77,7 @@ Registros de aulas sobre simulação e otimização
 1. Ambiente de trabalho
     1. componete LadyBug_LadyBug
     1. Análise de conforto térmico (exterior)
-    1. Temperatura de Bulbo seco
-
-        ![imagem](https://upload.wikimedia.org/wikipedia/commons/8/8f/Cloud_forest_mount_kinabalu-withHygrom.jpg)
+    1. Temperatura de bulbo seco
     1. Sensação Térmica (Universal Thermal Climate Index)
     1. Visualização da informação
     1. *run_it*
@@ -95,9 +94,14 @@ Registros de aulas sobre simulação e otimização
 
 1. Percurso aparente do Sol
 
+    1. [Movimento anual do sol](http://www.if.ufrgs.br/fis02001/aulas/aula_movsol.htm)
+
     ![Imagem](.\imagens\LadyBug_02.png)
 
-## Fontes de Informação
+1. Análise de insolejamento
+     ![Imagem](.\imagens\LadyBug_03.png)
+
+## Fontes de informação
 
 [Hydra](https://hydrashare.github.io/hydra/)
 
