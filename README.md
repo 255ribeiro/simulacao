@@ -7,6 +7,10 @@ _______
 ### Prof. Fernando Ferraz Ribeiro | ffribeiro@gmail.com
 
 _______
+
+### [Edital de Avaliação](.\edital\edital01.md)
+
+_______
 _______
 
 ## Parte I
