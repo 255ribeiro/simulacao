@@ -23,7 +23,6 @@ _______
 
 [link alternativo](https://github.com/255ribeiro/simulacao/blob/master/Conceitos/Simula_e_BIM.md)
 
-
 1. Conceito de BIM
 1. Conceito de Simulação Computacional
 1. Conceito de Otimização
