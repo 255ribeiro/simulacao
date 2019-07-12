@@ -38,6 +38,19 @@ Registros de aulas sobre simulação e otimização
     1. [TQS](http://www.tqs.com.br/)
     1. [Autodesk Robot Structural Analysis](https://www.autodesk.com/products/robot-structural-analysis/overview)
 
+1. Simulação de Processos
+
+    1. [Navisworks](https://www.autodesk.com.br/products/navisworks/overview)
+
+1. Simulação de fluxo
+
+    [Varade](http://www.vadere.org)
+
+    ![image](http://www.vadere.org/wp-content/uploads/2016/12/Bottleneck01-768x416.png)
+
+1. Simulação Histórica
+    1. HBIM
+
 1. Simulação energética
     1. [Energy Plus](https://energyplus.net/)
     ![imagem](https://energyplus.net/sites/all/modules/custom/nrel_custom/images/quickstart_3.png)
@@ -54,19 +67,6 @@ Registros de aulas sobre simulação e otimização
     1. [Ladybug Tools](https://www.ladybug.tools)
     ![imagem](http://api.ning.com/files/n6JmThHrscbO0NxgLueUYrQPy4fLA8xdzP2COHyD1QEQ3DwfUxXlyjBtQMAxuSYvCXRAw0TfZ25DeARWbsMBKw0*wFlKWzeT/Untitledpresentation.png?width=1200)
 
-1. Simulação de Processos
-
-    1. [Navisworks](https://www.autodesk.com.br/products/navisworks/overview)
-
-1. Simulação de fluxo
-
-    [Varade](http://www.vadere.org)
-
-    ![image](http://www.vadere.org/wp-content/uploads/2016/12/Bottleneck01-768x416.png)
-
-1. Simulação Histórica
-    1. HBIM
-
 ## Instalação: Ladybug + Honebee
 
 [Intruções de instalação](https://github.com/mostaphaRoudsari/ladybug/wiki/Installation-Instructions)
@@ -77,25 +77,25 @@ Registros de aulas sobre simulação e otimização
     1. componete LadyBug_LadyBug
     1. Análise de conforto térmico (exterior)
     1. Temperatura de Bulbo seco
+
         ![imagem](https://upload.wikimedia.org/wikipedia/commons/8/8f/Cloud_forest_mount_kinabalu-withHygrom.jpg)
     1. Sensação Térmica (Universal Thermal Climate Index)
     1. Visualização da informação
     1. *run_it*
     1. manequim
-    1. Parãmetros de legenda
-
-    ![Imagem](.\imagens\LadyBug_00.png)
+        ![Imagem](.\imagens\LadyBug_00.png)
 1. Arquivos EPW
     1. Baixando Arquivos EPW
     1. Obtendo os dados de um arquivo EPW
     1. Gráfico de dados
+        * Filtro de dados
     1. Rosa dos ventos
+    1. Parâmetros de legenda
         ![Imagem](.\imagens\LadyBug_01.png)
 
 1. Percurso aparente do Sol
 
     ![Imagem](.\imagens\LadyBug_02.png)
-
 
 ## Fontes de Informação
 
