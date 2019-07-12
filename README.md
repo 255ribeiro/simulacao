@@ -1,6 +1,16 @@
-# Simulação
+# Ferramentas de Simulação em Modelos Paramétricos
+
+_______
+
+## MBI BIM | SENAI-CIMATEC | 2019.1
+
+### Prof. Fernando Ferraz Ribeiro | ffribeiro@gmail.com
+
+_______
+_______
 
 ## Parte I
+
 [arquivos parte I](.\Arquivos\Arquivos_Parte_I.zip)
 
 ## [Simulação e Bim - Conceitos](.\Conceitos\Simulação_e_BIM.md)
@@ -108,3 +118,16 @@
 [Tutoriais Chris Mackey](https://www.youtube.com/playlist?list=PLruLh1AdY-Sho45_D4BV1HKcIz7oVmZ8v)
 
 [EPWMAP](https://www.ladybug.tools/epwmap/)
+
+_______
+_______
+
+## Parte II
+
+1. Modelagem Energética - introdução
+
+1. Modelagem energética - exercícios
+
+1. Análise de dados
+
+1. Encerramento do curso
