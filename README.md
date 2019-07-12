@@ -17,7 +17,7 @@ _______
 
 [Arquivos Parte I](.\Arquivos\Arquivos_Parte_I.zip)
 
-## [Simulação e Bim - Conceitos](.\Conceitos\Simula_e_BIM.md)
+## [Simulação e Bim 1 - Conceitos](Conceitos\Simula_e_BIM.md)
 
 1. Conceito de BIM
 1. Conceito de Simulação Computacional
