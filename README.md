@@ -132,10 +132,25 @@ _______
 
 ## Parte II
 
-1. Modelagem Energética - introdução
+1. Simulação, construção e projetos
 
-1. Modelagem energética - exercícios
+1. Modelagem da Informação da Cidade - City Information Modeling
 
-1. Análise de dados
+1. IOT Internet of Things
+
+1. IOT e BIM
+
+1. Ciência de Dados
+
+1. Ciência de dados e ambiente construido
+
+    1. IOT
+    1. Big Data
+    1. Vizualização de Dados
+    1. Exemplos de aplicação
+
+1. Orientação do Trabalho Prático
+
+1. Interoperabilidade entre sistêmas paramétricos
 
 1. Encerramento do curso
