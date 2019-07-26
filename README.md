@@ -10,8 +10,6 @@ _______
 
 ### [Edital de Avaliação](./edital/readme.md)
 
-[link alternativo](https://github.com/255ribeiro/simulacao/blob/master/edital/readme.md)
-
 _______
 _______
 
@@ -20,8 +18,6 @@ _______
 [Arquivos Parte I](.\Arquivos\Arquivos_Parte_I.zip)
 
 ## [Simulação e Bim - Conceitos](./Conceitos/readme.md)
-
-[link alternativo](https://github.com/255ribeiro/simulacao/blob/master/Conceitos/readme.md)
 
 1. Conceito de BIM
 1. Conceito de Simulação Computacional
