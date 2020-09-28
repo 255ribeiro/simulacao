@@ -1,6 +1,6 @@
 # Arquivos EPW
 
-[Sobre os arquivos do energy plus](https://energyplus.net/weather/simulation)
+[Sobre os arquivos do Energy Plus](https://energyplus.net/weather/simulation)
 
 ## Componente Principal do Ladybug
 
