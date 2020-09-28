@@ -27,6 +27,12 @@
 
 ![Open_stat_epw](../epw_arq/open_epwI.jpg)
 
+### O componete Import EPW torna as informações do arquivo disponíveis o Grasshopper
+
+![import_epw](../epw_arq/imort_epw.jpg)
+
+### Configuração final
+
 ![algoritmo final](../epw_arq/import_epw_file.png)
 
 ### Vamos olhar as características de alguns arquivos EPW da cidade do projeto.
