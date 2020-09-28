@@ -2,7 +2,7 @@
 
 _______
 
-## MBI BIM | SENAI-CIMATEC | 2019.1
+## MBI BIM | SENAI-CIMATEC | 2020
 
 ### Prof. Fernando Ferraz Ribeiro | ffribeiro@gmail.com
 
@@ -38,7 +38,18 @@ _______
     1. Otimização qualitativa x otimização quantitativa
     1. Parâmetros
     1. Função Objetivo
-![imagem](.\imagens\Modelo_computacional.png)
+
+###### Ponto se movendo como uma parábola.
+![imagem](./imagens/Modelo_computacional_parabola_ponto.png)
+
+###### Criando a curva de uma parábola
+![parab_curva](imagens/Modelo_computacional_parabola_curva.png)
+
+###### Tratando a curva - qual o valor ideal? 
+
+![parab_dom](imagens/Modelo_computacional_dominio.png)
+
+[arquivo parábola](./Arquivos/Arquivos_Parte_I/Funcao_objetivo_v2.gh)
 
 ## Ferramtentas de Simulação para a Construção
 
@@ -155,6 +166,6 @@ _______
 
 1. Orientação do Trabalho Prático
 
-1. Interoperabilidade entre sistêmas paramétricos
+1. Interoperabilidade entre sistemas paramétricos
 
 1. Encerramento do curso
