@@ -29,5 +29,5 @@
 
 ![algoritmo final](../epw_arq/import_epw_file.png)
 
-### Vamos olhar as caracteristicas de cada arquivo EPW da cidade do projeto.
+### Vamos olhar as características de alguns arquivos EPW da cidade do projeto.
 
