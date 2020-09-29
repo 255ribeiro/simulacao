@@ -108,7 +108,7 @@ _______
 ## ladyBug
 
 1. Ambiente de trabalho
-    1. componete LadyBug_LadyBug
+    1. Componete LadyBug_LadyBug
     1. Análise de conforto térmico (exterior)
     1. Temperatura de bulbo seco
     1. Sensação Térmica (Universal Thermal Climate Index)
@@ -116,22 +116,22 @@ _______
     1. *run_it*
     1. manequim
         ![Imagem](.\imagens\LadyBug_00.png)
+
 1. Arquivos EPW
-    1. Baixando Arquivos EPW
-    1. Obtendo os dados de um arquivo EPW
-    1. Gráfico de dados
+    1. [Baixando Arquivos EPW e Importando os Dados](./epw_arq/ladybug_epw.md)
+    2. Gráfico de dados
         * Filtro de dados
-    1. Rosa dos ventos
-    1. Parâmetros de legenda
+    3. Rosa dos ventos
+    4. Parâmetros de legenda
         ![Imagem](.\imagens\LadyBug_01.png)
 
-1. Percurso aparente do Sol
+2. Percurso aparente do Sol
 
     1. [Movimento anual do sol](http://www.if.ufrgs.br/fis02001/aulas/aula_movsol.htm)
 
     ![Imagem](.\imagens\LadyBug_02.png)
 
-1. Análise de insolejamento
+3. Análise de insolejamento
      ![Imagem](.\imagens\LadyBug_03.png)
 
 ## Fontes de informação
