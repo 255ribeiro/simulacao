@@ -1,8 +1,8 @@
 # Arquivos EPW
 
-[Sobre os arquivos do Energy Plus](https://energyplus.net/weather/simulation)
+[Sobre os arquivos do EPW Energy Plus](https://energyplus.net/weather/simulation)
 
-## Componente Principal do Ladybug
+## Componente Principal do Ladybug (Ladybug_Ladybug)
 
 ![Ladybug_Ladibug](../epw_arq/InkedLB_principal_comp_LI.jpg)
 
