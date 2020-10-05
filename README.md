@@ -15,7 +15,6 @@ _______
 
 ## Parte I
 
-[Arquivos Parte I](.\Arquivos\Arquivos_Parte_I.zip)
 
 ## [Simulação e Bim - Conceitos](./Conceitos/readme.md)
 
@@ -105,7 +104,8 @@ _______
 
 
 ## Interface básica Ladybug tools
-[LadyBug - guia de interface](.\interface_basica\interface_basica.md)
+
+[guia de interface](.\interface_basica\interface_basica.md)
 
 1. Ambiente de trabalho
     1. Componente LadyBug_LadyBug
