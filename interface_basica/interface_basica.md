@@ -63,10 +63,10 @@
 
 1. Gráfico do manequim
      
-     Um componente interessante para representar o conforto térmico de um indivíduo é o Ladybug_Comfort Mannequin. Ele pode ser encontraado na aba **5| Extra** do Ladybug.
+     Um componente interessante para representar o conforto térmico de um indivíduo é o Ladybug_Comfort Mannequin. Ele pode ser encontrado na seção **5| Extra** do Ladybug.
 
      ![manequim](.\manequim.jpg)
      
-     
 
-    ![Imagem](../imagens/LadyBug_00.png)
+
+![Imagem](../imagens/LadyBug_00.png)
