@@ -63,7 +63,7 @@
 
 1. Gráfico do manequim
      
-     Um componente interessante para representar o conforto térmico de um indivíduo é o Ladybug_Comfort Mannequin. Ele pode ser encontrado na seção **5| Extra** do Ladybug.
+     Um componente interessante para representar o conforto térmico de um indivíduo é o Ladybug_Comfort Mannequin. Ele pode ser encontrado na seção **5\| Extra** do Ladybug.
 
      ![manequim](.\manequim.jpg)
 
@@ -81,7 +81,7 @@
 
      ![leg_param](.\leg_param.jpg)
 
-     É possível ajustar os limites (valor superior e inferior da escala de cores), o número de diviões da escala, e até mudar a escala de cores com o componente **5| Extra -> ladybug_Gradient Library** e um **slider**.
+     É possível ajustar os limites (valor superior e inferior da escala de cores), o número de diviões da escala, e até mudar a escala de cores com o componente **5\| Extra -> ladybug_Gradient Library** e um **slider**.
 
      ![leg_param_opt](.\leg_param_op.png)
 
