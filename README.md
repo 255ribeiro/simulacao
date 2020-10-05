@@ -104,8 +104,8 @@ _______
 [Sobre a versão *legacy* 2020](https://discourse.ladybug.tools/t/legacy-ladybug-0-0-69-honeybee-0-0-66-and-honeybee-0-0-06-release/10280)
 
 
-
-## [LadyBug - interface básica](.\interface_basica\interface_basica.md)
+## Interface básica Ladybug tools
+[LadyBug - guia de interface](.\interface_basica\interface_basica.md)
 
 1. Ambiente de trabalho
     1. Componente LadyBug_LadyBug
