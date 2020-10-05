@@ -37,5 +37,5 @@
 
 1. de volta a caixa de dialogo, clique em ok.
 
-###### Para cada nova imagem, o nome do arquivo tem que ser alterado clicando d[nas reticencias no canto superior direito da caixa de diálogo. Se não, o último arquivo salvo sobrescreve o anterior.
+###### Para cada nova imagem, o nome do arquivo tem que ser alterado clicando nas reticencias no canto superior direito da caixa de diálogo. Se não, o último arquivo salvo sobrescreve o anterior.
 
