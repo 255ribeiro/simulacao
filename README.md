@@ -105,36 +105,41 @@ _______
 
 
 
-## ladyBug
+## [LadyBug - interface básica](.\interface_basica\interface_basica.md)
 
 1. Ambiente de trabalho
-    1. Componete LadyBug_LadyBug
+    1. Componente LadyBug_LadyBug
     1. Análise de conforto térmico (exterior)
     1. Temperatura de bulbo seco
     1. Sensação Térmica (Universal Thermal Climate Index)
     1. Visualização da informação
     1. *run_it*
     1. manequim
-        ![Imagem](.\imagens\LadyBug_00.png)
+   
+    ![Imagem](.\imagens\LadyBug_00.png)
 
-1. Arquivos EPW
-    1. [Baixando Arquivos EPW e Importando os Dados](./epw_arq/ladybug_epw.md)
-    2. Gráfico de dados
-        * Filtro de dados
-    3. Rosa dos ventos
-    4. Parâmetros de legenda
-        ![Imagem](.\imagens\LadyBug_01.png)
+## [Salvando Imagens das telas do Rhinoceros e do grasshopper](.\print_view\print_de_viewport.md)
 
-2. Percurso aparente do Sol
+1. Salvando Imagens da viewport do Rhinoceros
+2. Salvando algoritmos do Grasshopper
+
+## Trabalhado com arquivos EPW
+
+
+1. [Baixando Arquivos EPW e Importando os Dados](./epw_arq/ladybug_epw.md)
+
+![Imagem](.\imagens\LadyBug_01.png)
+
+1. Percurso aparente do Sol
 
     1. [Movimento anual do sol](http://www.if.ufrgs.br/fis02001/aulas/aula_movsol.htm)
 
     ![Imagem](.\imagens\LadyBug_02.png)
 
-3. Análise de insolejamento
+2. Análise de insolejamento
      ![Imagem](.\imagens\LadyBug_03.png)
 
-## Fontes de informação
+### Fontes de informação
 
 [Hydra](https://hydrashare.github.io/hydra/)
 
