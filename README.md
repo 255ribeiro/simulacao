@@ -99,7 +99,7 @@ _______
 [Ladybug tools Download](https://www.food4rhino.com/app/ladybug-tools)
 
 
-[Intruções de instalação](https://github.com/mostaphaRoudsari/ladybug/wiki/Installation-Instructions)
+[Instruções de instalação](https://github.com/mostaphaRoudsari/ladybug/wiki/Installation-Instructions)
 
 [Sobre a versão *legacy* 2020](https://discourse.ladybug.tools/t/legacy-ladybug-0-0-69-honeybee-0-0-66-and-honeybee-0-0-06-release/10280)
 
