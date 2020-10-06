@@ -16,20 +16,20 @@ _______
 ## Parte I
 
 
-## [Simulação e Bim - Conceitos](./Conceitos/readme.md)
+### [Simulação e Bim - Conceitos](./Conceitos/readme.md)
 
 1. Conceito de BIM
 1. Conceito de Simulação Computacional
 1. Conceito de Otimização
 
-## Projeto e Simulação
+### Projeto e Simulação
 
 1. Todo projeto é uma simulação.
 1. O aspecto computacional do BIM é um ramo da simulação computacional.
 1. Dimensões do BIM: diferentes aplicações do modelo, diferentes simulações.
 ![imagem](https://s3-eu-west-1.amazonaws.com/drawbotics-blog/2018/10/BIM3.jpg)
 
-## Matemática das Simulações
+### Matemática das Simulações
 
 1. Equações e Resultados
 1. Tratando os Resultados
@@ -50,7 +50,7 @@ _______
 
 [arquivo parábola](./Arquivos/Arquivos_Parte_I/Funcao_objetivo_v2.gh)
 
-## Ferramtentas de Simulação para a Construção
+### Ferramtentas de Simulação para a Construção
 
 1. O formato IFC
 
@@ -90,9 +90,10 @@ _______
     ![imagem](http://nrel.github.io/OpenStudio-user-documentation/img/os_interface/overview.png)
 
     1. [Ladybug Tools](https://www.ladybug.tools)
-    ![imagem](http://api.ning.com/files/n6JmThHrscbO0NxgLueUYrQPy4fLA8xdzP2COHyD1QEQ3DwfUxXlyjBtQMAxuSYvCXRAw0TfZ25DeARWbsMBKw0*wFlKWzeT/Untitledpresentation.png?width=1200)
+   
+    
 
-## Instalação: Ladybug + Honebee
+### Instalação: Ladybug + Honebee
 
 
 [Ladybug tools Download](https://www.food4rhino.com/app/ladybug-tools)
@@ -103,7 +104,7 @@ _______
 [Sobre a versão *legacy* 2020](https://discourse.ladybug.tools/t/legacy-ladybug-0-0-69-honeybee-0-0-66-and-honeybee-0-0-06-release/10280)
 
 
-## Interface básica Ladybug tools
+### Interface básica Ladybug tools
 
 [guia de interface](./interface_basica/interface_basica.md)
 
@@ -118,28 +119,39 @@ _______
    
     ![Imagem](.\imagens\LadyBug_00.png)
 
-## [Salvando Imagens das telas do Rhinoceros e do grasshopper](./print_view/print_de_viewport.md)
+### Salvando Imagens das telas do Rhinoceros e do grasshopper
 
+[guia de geração de imagens raster]((./print_view/print_de_viewport.md))
 1. Salvando Imagens da viewport do Rhinoceros
 2. Salvando algoritmos do Grasshopper
 
-## Trabalhado com arquivos EPW
+### Trabalhado com arquivos EPW
 
 
 1. [Baixando Arquivos EPW e Importando os Dados](./epw_arq/ladybug_epw.md)
 
+2. [Avaliação inicial dos dados do arquivo](./epw_arq/epw_avaliando.md)
+
+
+### Gráficos de Temperatura e Ventos
+
+Gráficos de temperatura
+
+Rosa dos ventos
+
+Percurso aparente do Sol
+
+[Movimento anual do sol](http://www.if.ufrgs.br/fis02001/aulas/aula_movsol.htm)
+
 ![Imagem](.\imagens\LadyBug_01.png)
 
-1. Percurso aparente do Sol
+![Imagem](.\imagens\LadyBug_02.png)
 
-    1. [Movimento anual do sol](http://www.if.ufrgs.br/fis02001/aulas/aula_movsol.htm)
+### Análise de insolejamento
 
-    ![Imagem](.\imagens\LadyBug_02.png)
+![Imagem](.\imagens\LadyBug_03.png)
 
-2. Análise de insolejamento
-     ![Imagem](.\imagens\LadyBug_03.png)
-
-### Fontes de informação
+#### Fontes de informação
 
 [Hydra](https://hydrashare.github.io/hydra/)
 
