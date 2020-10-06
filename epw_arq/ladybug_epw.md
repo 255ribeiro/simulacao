@@ -13,7 +13,7 @@
 ![epw_download](../epw_arq/epw_download_LI.jpg)
 
 ### Use um Boolean Toggle 
-![ep_site](../epw_arq/Inkedepw_download_2_LI.jpg)
+![ep_site](../epw_arq/Inkedepw_download_2_a.jpg)
 
 ### Procure as estações mais próximas da localidade do seu estudo climático.
 
@@ -27,11 +27,14 @@
 
 ![Open_stat_epw](../epw_arq/open_epwI.jpg)
 
-### O componete Import EPW torna as informações do arquivo disponíveis o Grasshopper
+### O componete Import EPW torna as informações do arquivo disponíveis para manipulação no Grasshopper
 
 ![import_epw](../epw_arq/imort_epw.jpg)
 
 ### Configuração final
+
+[arquivo final](./ladybug_epw.gh)
+
 
 ![algoritmo final](../epw_arq/import_epw_file.png)
 
