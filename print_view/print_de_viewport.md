@@ -2,7 +2,7 @@
 
 ## Salvando a Imagem de uma *viewport* no Rhinoceros
 
-### Usando uma vista existente
+### Usando um modo de vista existente
 
 1. Maximize a vista que deseja salvar.
 
