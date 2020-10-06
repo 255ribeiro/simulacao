@@ -2,6 +2,8 @@
 
 ## Salvando a Imagem de uma *viewport* no Rhinoceros
 
+### Usando uma vista existente
+
 1. Maximize a vista que deseja salvar.
 
 2. Clique na seta ao lado no mome da vista.
@@ -22,6 +24,30 @@
     4. Dimensões e DPI
     5. Salvar a imagem.
 ![captura](.\print_de_tela.jpg)
+
+### Criando um novo modo de vista
+
+As vezes é necessário configurar um modo de visualização (*display mode*) com características específicas para a exportação da imagem. 
+
+Neste exemplo vamos criar uma cópia do **Display Mode** **sahded** com a cor do fundo em banco para facilitar a impressão. Clique na seta ao lado do nome da vista e escolha a opção **Display Options**.
+
+![display options](./display_options.jpg)
+
+Em seguida, selecione a a opção **Display Modes** depois selecione o modo **shaded** e clique em **new**. 
+
+![New_display_modes](./New_display_mode.jpg)
+
+Digite umnome para o seu novo modo e, na configuração de Background, escolha a opção **solid color**.
+
+![solid color](./solid_color.jpg)
+
+Clique no botão que mostra a cor do backgound, em seguida, escolha a opção white. Clique em ok para confirmar a seleção da cor e, caso não queira fazer mais nenhum ajuste, clique em ok novamente, conforme indicado na figura abaixo:
+
+![seleciorar cor de fundo](./select_color.jpg)
+
+Clicando na seta ao lado do nome da vista, é possível selecionar o novo modo de vista, selecionado o nome escolhido.
+
+![slect new mode](./select_new_mode.jpg)
 
 ## Salvando uma imagem de um algoritmo no Grasshopper.
 
