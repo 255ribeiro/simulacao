@@ -1,20 +1,20 @@
-# Salvando imagens de tela no Rhinoceros e Grasshopper
+# Salvando imagens de tela do Rhinoceros e do Grasshopper
 
 ## Salvando a Imagem de uma *viewport* no Rhinoceros
 
 ### Usando um modo de vista existente
 
-1. Maximize a vista que deseja salvar.
+1. Maximize a vista que deseja salvar (clicando duas vezes no nome da vista).
 
 2. Clique na seta ao lado no mome da vista.
 
 3. Escolha um estilo de visualização para a imagem. (o estilo ***Artic*** pode ser uma boa escolha para os gráficos)
 
-![captura](.\print_01.jpg)
+    ![captura](.\print_01.jpg)
 
 1. Clique novamente na seta ao lado no nome da **viewport** e escolha as opções
-   1. Capture
-   2. To File
+   3. Capture
+   4. To File
 
 1. Configure as oções de saída da imagem.
 
