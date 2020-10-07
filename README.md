@@ -121,7 +121,7 @@ _______
 
 ### Salvando Imagens das telas do Rhinoceros e do grasshopper
 
-[guia de geração de imagens raster]((./print_view/print_de_viewport.md))
+[guia de geração de imagens raster](./print_view/print_de_viewport.md)
 1. Salvando Imagens da viewport do Rhinoceros
 2. Salvando algoritmos do Grasshopper
 
