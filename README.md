@@ -141,14 +141,13 @@ _______
 
 [Rosa dos ventos](./graficos_temp_um_vent/Rosa_dos_ventos.md)
 
+![Imagem](.\imagens\LadyBug_01.png)
 
 ### Análise de insolejamento
 
 Percurso aparente do Sol
 
 [Movimento anual do sol](http://www.if.ufrgs.br/fis02001/aulas/aula_movsol.htm)
-
-![Imagem](.\imagens\LadyBug_01.png)
 
 ![Imagem](.\imagens\LadyBug_02.png)
 
