@@ -2,11 +2,11 @@
 
 Partindo do [arquivo final](../epw_arq/ladybug_epw.gh) do guia [Baixando Arquivos EPW e importando dados](../epw_arq/ladybug_epw.md)
 
-Na seção **2/| Visualize Wheather Data**, selecione o componente **ladybug_line Chart**
+Na seção **2\| Visualize Wheather Data**, selecione o componente **ladybug_line Chart**
 
 ![line chart 1](./line_chart_01.jpg)
 
-Conecte a saída de temperatura (dryBulbTemperature) do componente ladybug_Import epw** na entrada **_InputData** do componente **Ladybug_line Chart**.
+Conecte a saída de temperatura (dryBulbTemperature) do componente ladybug_Import epw** na entrada **_InputData** do componente **Ladybug_Line Chart**.
 
 ![line chart 2](./line_chart_02.jpg)
 
