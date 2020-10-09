@@ -135,7 +135,9 @@ _______
 
 ### Gráficos de Temperatura e Ventos
 
-Gráficos de temperatura
+[Gráficos de Linhas](./graficos_temp_um_vent/Grafico_de_linhas.md)
+
+[Mapa de calor](./graficos_temp_um_vent/heatmap.md)
 
 Rosa dos ventos
 
