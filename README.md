@@ -133,6 +133,7 @@ _______
 2. [Avaliação inicial dos dados do arquivo](./epw_arq/epw_avaliando.md)
 
 
+
 ### Gráficos de Temperatura e Ventos
 
 [Gráficos de Linhas](./graficos_temp_um_vent/Grafico_de_linhas.md)
@@ -142,6 +143,11 @@ _______
 [Rosa dos ventos](./graficos_temp_um_vent/Rosa_dos_ventos.md)
 
 ![Imagem](.\imagens\LadyBug_01.png)
+
+Arquivos EPW utilizados na aula:
+[cidade01](./epw_exemplos/BRA_BA_Salvador.866780_INMET.zip)
+
+[cidade02](epw_exemplos/BRA_SC_Chapeco.838830_TMYx.zip)
 
 ### Análise de insolejamento
 
