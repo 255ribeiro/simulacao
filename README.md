@@ -139,7 +139,10 @@ _______
 
 [Mapa de calor](./graficos_temp_um_vent/heatmap.md)
 
-Rosa dos ventos
+[Rosa dos ventos](./graficos_temp_um_vent/Rosa_dos_ventos.md)
+
+
+### Análise de insolejamento
 
 Percurso aparente do Sol
 
@@ -148,8 +151,6 @@ Percurso aparente do Sol
 ![Imagem](.\imagens\LadyBug_01.png)
 
 ![Imagem](.\imagens\LadyBug_02.png)
-
-### Análise de insolejamento
 
 ![Imagem](.\imagens\LadyBug_03.png)
 
