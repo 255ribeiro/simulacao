@@ -146,9 +146,9 @@ _______
 
 Arquivos EPW utilizados na aula:
 
-[cidade01](./epw_exemplos/BRA_BA_Salvador.866780_INMET.zip)
+[cidade01](./epw_arq_exemplos/BRA_BA_Salvador.866780_INMET.zip)
 
-[cidade02](epw_exemplos/BRA_SC_Chapeco.838830_TMYx.zip)
+[cidade02](epw_arq_exemplos/BRA_SC_Chapeco.838830_TMYx.zip)
 
 ### Análise de insolejamento
 
