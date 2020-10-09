@@ -84,6 +84,7 @@ Para finalizar, conecte o valor menor na entrada **lowBound_** e o valor maior n
 
 [Arquivo final](./heatMap.gh)
 
+![gh final](./ssa_chapeco_gh_final.png)
+
 ![rhino final](./ssa_chapeco_v2.jpg)
 
-![gh final](./ssa_chapeco_gh_final.png)
