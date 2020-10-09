@@ -2,7 +2,7 @@
 
 Partindo do [arquivo final](../epw_arq/ladybug_epw.gh) do guia [Baixando Arquivos EPW e importando dados](../epw_arq/ladybug_epw.md)
 
-Na seção **2\| Visualize Wheather Data**, selecione o componente **ladybug_line Chart**
+Na seção **2 \| Visualize Wheather Data**, selecione o componente **ladybug_line Chart**
 
 ![line chart 1](./line_chart_01.jpg)
 
