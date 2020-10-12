@@ -41,5 +41,20 @@ Na tela do rhino, mude o tipo de seleção de **Coorrdinate** para **Point**
 
 ![lb sun path](./sunpath_comp_08.jpg)
 
-Em seguida, clique no ponto desenhado.
+Em seguida, clique no ponto desenhado. Voltando para a tela do Grasshopper, conecte o componente **Point** na entrada **_centerPt_** do componente **Ladybug_Sun Path**.
 
+![lb sun path](./sunpath_comp_09.jpg)
+
+As entradas **_sunpPathScale_** e **_sunScale_** recebem valores numéricos reais que controlam os tamanhos do diagrama e das marcações da posição do sol respectivamente.
+
+A entrada **_projection_** recebe valores inteiros entre 0 e 2. O valor 0 é o padrão e gera o gráfico tridimensional.
+
+![lb sun path](./sunpath_comp_10.jpg)
+
+O valor 1 gera uma projeção ortogonal do diagrama sob o Plano XY.
+
+![lb sun path](./sunpath_comp_11.jpg)
+
+![lb sun path](./sunpath_comp_12.jpg)
+
+![lb sun path](./sunpath_comp_13.jpg)
