@@ -152,13 +152,17 @@ Arquivos EPW utilizados na aula:
 
 ### Análise de insolejamento
 
-Percurso aparente do Sol
+1. [Percurso aparente do Sol](./sunpath/Percurso_aparente_do_Sol.md)
 
-[Movimento anual do sol](http://www.if.ufrgs.br/fis02001/aulas/aula_movsol.htm)
+    * [Movimento anual do sol](http://www.if.ufrgs.br/fis02001/aulas/aula_movsol.htm)
 
-![Imagem](.\imagens\LadyBug_02.png)
+1. [Análise de horas de insolejamento](./sunpath/Analise_horas_de_sol.md)
 
-![Imagem](.\imagens\LadyBug_03.png)
+    ![Imagem](.\imagens\LadyBug_03.png)
+
+1. [Análise de radiação Solar](./radiation/radiation.md)
+
+    ![Imagem](.\imagens\LadyBug_02.png)
 
 #### Fontes de informação
 
