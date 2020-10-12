@@ -158,11 +158,11 @@ Arquivos EPW utilizados na aula:
 
 1. [Análise de horas de insolejamento](./sunpath/Analise_horas_de_sol.md)
 
-    ![Imagem](.\imagens\LadyBug_03.png)
+    ![Imagem](.\imagens\LadyBug_02.png)
 
 1. [Análise de radiação Solar](./radiation/radiation.md)
 
-    ![Imagem](.\imagens\LadyBug_02.png)
+    ![Imagem](.\imagens\LadyBug_03.png)
 
 #### Fontes de informação
 
