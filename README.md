@@ -160,7 +160,7 @@ Arquivos EPW utilizados na aula:
 
     ![Imagem](.\imagens\LadyBug_02.png)
 
-1. [Análise de radiação Solar](./radiation/radiation.md)
+1. [Análise de radiação solar](./radiation/radiation.md)
 
     ![Imagem](.\imagens\LadyBug_03.png)
 
