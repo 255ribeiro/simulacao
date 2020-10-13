@@ -150,7 +150,7 @@ Arquivos EPW utilizados na aula:
 
 [cidade02](epw_arq_exemplos/BRA_SC_Chapeco.838830_TMYx.zip)
 
-### Análise de insolejamento
+### Análise de Insolejamento - parte 1
 
 1. [Percurso aparente do Sol](./sunpath/Percurso_aparente_do_Sol.md)
 
@@ -160,7 +160,15 @@ Arquivos EPW utilizados na aula:
 
     ![Imagem](.\imagens\LadyBug_02.png)
 
-1. [Análise de radiação solar](./radiation/radiation.md)
+### Análise de Insolejamento - parte 2
+
+1. [Arquivo base para análise de radiação solar](./radiation/radiation.md)
+
+1. [Sky Dome](./radiation/skydome.md)
+
+1. [Radiation Rose](./radiationrose.md)
+
+1. [Radiação nas Superfícies](./radiation/rad_surf.md)
 
     ![Imagem](.\imagens\LadyBug_03.png)
 
