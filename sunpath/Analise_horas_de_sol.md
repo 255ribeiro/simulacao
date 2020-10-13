@@ -98,11 +98,11 @@ A entrada **\_runIt** recebe um **Boolean Toggle** que deve ser ajustado para Tr
 
 ![lb sun path](./sunpath_comp_41.jpg)
 
-A análise já aparece na tela do Rhinoceros. Para melhor leitura deve-se desabilitar a visualização dos Layers ANALISE e CONTEXTO.
+A análise já aparece na tela do Rhinoceros. Para melhor leitura deve-se desabilitar a visualização do Layer ANALISE.
 
 ![lb sun path](./sunpath_comp_42.jpg)
 
-No Grasshopper, desabilite o **Preview** do componente **Brep** ligado a entrda **\_geometry** do componente **Ladybug_Sunlight Hours Analysis**.
+No Grasshopper, desabilite o **Preview** dos componentes **Brep** ligados as entrdas **\_geometry** e **context\_** do componente **Ladybug_Sunlight Hours Analysis**.
 
 ![lb sun path](./sunpath_comp_43.jpg)
 
