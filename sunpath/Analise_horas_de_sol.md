@@ -1,16 +1,72 @@
 # Análise de insolejamento por horas de insolejamento.
 
-Partindo do [arquivo final](./sunpath.gh) do guia [Percurso aparente do Sol](./Percurso_aparente_do_Sol.md). Utilizaremos o arquivo [SUNPATH_EXAMPLES.3dm](./SUNPATH_EXAMPLES.3dm) no Rhinoceros para simular uma análise com entorno.
+Partindo do [arquivo final](../epw_arq/ladybug_epw.gh) do guia [Baixando Arquivos EPW e importando dados](../epw_arq/ladybug_epw.md). Utilizaremos o arquivo [SUNPATH_EXAMPLES.3dm](./SUNPATH_EXAMPLES.3dm) no Rhinoceros para simular uma análise com entorno.
 
-No Rhinoceros, abra o arquivo [SUNPATH_EXAMPLES.3dm](./SUNPATH_EXAMPLES.3dm). No Gasshopper, abra o arquivo [sunpath.gh](./sunpath.gh).
+No Rhinoceros, abra o arquivo [SUNPATH_EXAMPLES.3dm](./SUNPATH_EXAMPLES.3dm). No Gasshopper, abra o arquivo [ladybug_epw.gh](../epw_arq/ladybug_epw.gh)
 
 
 ![lb sun path](./sunpath_comp_23.jpg)
 
-Desconecte o componente **Ladybug_Analysis Period** da entrada **analysisPeriod_** e a saída **dryBulbteperature** da entrada **annualHourlyData_**. Apague com componente **Point** que está conectado à entrada **_centerPt_** do componente **Ladybug_Sun Path**. Mova o componente **Ladybug_Analysis Period** e os **Sliders** e o **Panel** conectado à este, conforme figura abaixo.
+Selecione o componente **Ladybug_Sun Path**.
+
+![lb sun path](./sunpath_comp.jpg)
+
+
+Conecte a saída **location** do arquivo epw com a entrada **_location_** do componente **Ladybug_Sun Path**.
+
+![lb sun path](./sunpath_comp_02.jpg)
+
+Configure um componente **Series** conforme figura abaixo.
+
+![lb sun path](./sunpath_comp_15.jpg)
+
+E conecte com a entrada **_hours_** do componente **Ladybug_Sun Path**.
 
 ![lb sun path](./sunpath_comp_24.jpg)
 
+Assim , as posições do sol de hora em hora para o dia 21 de dezembro serão ostradas na tela do Rhino.
+
+![lb sun path](./sunpath_comp_25.jpg)
+
+No arquivo de exemplo utilizado, o norte não está alinhado com o eixo Y, mas na direção de uma linha marcada no Layer L_NORTE. Ative a visualização dos layers auxiliares, ativando os ícones de lâmpadas indicados.
+
+![lb sun path](./sunpath_comp_26.jpg)
+
+No Grasshopper, selecione um componete **Curve** na aba **Params**, seção **Geometry**.
+
+![lb sun path](./sunpath_comp_27.jpg)
+
+clique com o botão direito no componente **Curve** e selecione a opção **select one curve**.
+
+![lb sun path](./sunpath_comp_28.jpg)
+
+Selecione a linha do layer L_NORTE no Rhinoceros.
+
+![lb sun path](./sunpath_comp_29.jpg)
+
+ De volta ao Grasshopper, selecione um componente **End Points** e conecte o componente **Curve** conforme figura abaixo:
+
+![lb sun path](./sunpath_comp_30.jpg)
+
+Selecione um componente **Vector 2Pt** conecte as saídas do componente **End Points** e a saída vector na entrada **north_** conforme ilustrado.
+
+![lb sun path](./sunpath_comp_31.jpg)
+
+Desabilite a visualização do layer L_NORTE.
+
+![lb sun path](./sunpath_comp_32.jpg)
+
+No Grasshopper, selecione um componente **Ladybug_North** para visualizar uma indicação da direção do norte.
+
+![lb sun path](./sunpath_comp_33.jpg)
+
+Em seguida, é possível desabilitar a visualização dos componentes **Curve** e **End Points**, selecionando ambos, clicando com o botão direito em um espaço vazio da tela do Grasshopper e escolhendo a opção **Preview Off** no menu.
+
+![lb sun path](./sunpath_comp_34.jpg)
+
+
+__________________________
+__________________________
 [ARQUIVO FINAL GH](./sunpath_DAYL_LIGHT_HOURS_ANALISE_FINAL.gh)
 
 ![horas de sol final](./horas_de_sol_final_rhino.jpg)
