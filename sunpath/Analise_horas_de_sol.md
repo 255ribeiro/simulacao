@@ -64,12 +64,66 @@ Em seguida, é possível desabilitar a visualização dos componentes **Curve** 
 
 ![lb sun path](./sunpath_comp_34.jpg)
 
+Selecione um componente **Ladybug_Sunlight Hours Analysis**
+
+![lb sun path](./sunpath_comp_35.jpg)
+
+Conecte a saída **sunVectors** do componente **Ladybug_Sun Path** na entrada **_sunVectors** do componente **Ladybug_Sunlight Hours Analysis** e se asegure que ambos os componentes estão com o mesmo vetor na entrada **north_**.
+
+![lb sun path](./sunpath_comp_36.jpg)
+
+Através da aba **Params**, seção **Geometry**, crie dois componentes **Brep**. 
+
+![lb sun path](./sunpath_comp_37.jpg)
+
+Em um deles, clique com o botão direito, selecione a opção **Set one Brep** e, na tela do Rhinoceros, selecione o plano no layrer ANALISE.
+
+![lb sun path](./sunpath_comp_38.jpg)
+
+No outro, Clique com o botão direito, escolha o opção **Set multiple Breps** e, na tela do Rhinoceros, selecione os volumes no Layer CONTEXTO.
+
+![lb sun path](./sunpath_comp_39.jpg)
+
+Conecte o primeiro an entrada **\_geometry** e o segundo na entrada **context_** do componente **Ladybug_Sunlight Hours Analysis**.
+
+![lb sun path](./sunpath_comp_40.jpg)
+
+Mais 3 componentes obrigatórios devem ser ajustados para realizar a análise: **\_gridSize\_**, **\_disFromBase** e **\_runIt**. 
+
+O **\_gridSize\_** representa o tamanho da malha de pontos que será testada sobre as superfícies da entrada **\_geometry**. Quando menor o valor, mais preciso será o cálculo e maior será o peso computacional da análise. Para o Exemplo proposto, aconselha-se o valor de 1.
+
+O parâmetro **\_disFromBase** representa uma distância das superfícies da entrada **\_geometry** onde serão realizadas as medições, recomenda-se um valor pequeno como 0.01.
+
+A entrada **\_runIt** recebe um **Boolean Toggle** que deve ser ajustado para True apenas quando todas as outras entradas estiverem preparadas.
+
+![lb sun path](./sunpath_comp_41.jpg)
+
+A análise já aparece na tela do Rhinoceros. Para melhor leitura deve-se desabilitar a visualização dos Layers ANALISE e CONTEXTO.
+
+![lb sun path](./sunpath_comp_42.jpg)
+
+No Grasshopper, desabilite o **Preview** do componente **Brep** ligado a entrda **\_geometry** do componente **Ladybug_Sunlight Hours Analysis**.
+
+![lb sun path](./sunpath_comp_43.jpg)
+
+Para refinar a análise, primeiro ajuste para **False** o valor do **Boolean Toggle** ligado à entrada **\_runIt**. Em seguida conecte um componente **Ladybug_Legend Parameters** na entrada **legendPar_** do componente **Ladybug_Sunlight Hours Analysis**.
+
+![lb sun path](./sunpath_comp_44.jpg)
+
+Conecte um componente **Ladibug_Gradiente Library** na entrada **customColors_** do componente **Ladybug_Legend Parameters**.
+
+![lb sun path](./sunpath_comp_45.jpg)
+
+Ajuste o valor de entrada do componente **Ladibug_Gradiente Library** para 16.
+
+![lb sun path](./sunpath_comp_46.jpg)
+
+Refaça a análise, ajustando o **Boolean Toggle** ligado à entrada **\_runIt** para **True**.
 
 __________________________
-__________________________
-[ARQUIVO FINAL GH](./sunpath_DAYL_LIGHT_HOURS_ANALISE_FINAL.gh)
+[ARQUIVO FINAL GH](./sunpath02.gh)
 
-![horas de sol final](./horas_de_sol_final_rhino.jpg)
+![horas de sol final](./sunpath_rhino_final.jpg)
 
 ![Horas de Sol gh](./horas_de_Sol_Final.png)
 
