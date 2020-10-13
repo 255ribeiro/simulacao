@@ -123,8 +123,9 @@ Refaça a análise, ajustando o **Boolean Toggle** ligado à entrada **\_runIt**
 __________________________
 [ARQUIVO FINAL GH](./sunpath02.gh)
 
+[ARQUIVO RHINO BAKE](./ANÁLISE_HORAS_DE_INSOLEJAMENTO_21_12_SAVADRO_BA_BR.3dm)
+
 ![horas de sol final](./sunpath_rhino_final.jpg)
 
 ![Horas de Sol gh](./horas_de_Sol_Final.png)
 
-[ARQUIVO RHINO BAKE](./ANÁLISE_HORAS_DE_INSOLEJAMENTO_21_12_SAVADRO_BA_BR.3dm)
