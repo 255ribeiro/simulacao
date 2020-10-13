@@ -166,7 +166,7 @@ Arquivos EPW utilizados na aula:
 
 1. [Sky Dome](./radiation/skydome.md)
 
-1. [Radiation Rose](./radiationrose.md)
+1. [Radiation Rose](./radiation/radiationrose.md)
 
 1. [Radiação nas Superfícies](./radiation/rad_surf.md)
 
