@@ -136,11 +136,11 @@ _______
 
 ### Gráficos de Temperatura e Ventos
 
-[Gráficos de Linhas](./graficos_temp_um_vent/Grafico_de_linhas.md)
+1. [Gráficos de Linhas](./graficos_temp_um_vent/Grafico_de_linhas.md)
 
-[Mapa de calor](./graficos_temp_um_vent/heatmap.md)
+2. [Mapa de calor](./graficos_temp_um_vent/heatmap.md)
 
-[Rosa dos ventos](./graficos_temp_um_vent/Rosa_dos_ventos.md)
+3. [Rosa dos ventos](./graficos_temp_um_vent/Rosa_dos_ventos.md)
 
 ![Imagem](.\imagens\LadyBug_01.png)
 
