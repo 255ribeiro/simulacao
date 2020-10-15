@@ -62,6 +62,7 @@ Inserimos na entrada **Motion** um versor Z. e um slider que varie de 0 a 200. C
 
 Mova o slider para cima e reative a entrada **_runIt_** do componente **Ladybug_Radiation Rose**. Aquanto mais alto o valor do slider , mas distante a área de influência das barreiras, mais próximos será a soma dos valores das radiações difusa e direta do valor da radiação solar total.
 
+![img rad rose](./radiation_21.jpg)
 _______________________________________
 _______________________________________
 [Arquivo final](./radiation_03.gh)
