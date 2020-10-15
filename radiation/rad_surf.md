@@ -17,9 +17,18 @@ conectando um **Boolean Toogle** à entrada **_runIt** é possível rodar a simu
 
 O resultado da análise aparece nas **Viewports** do Rhinoceros. É possível observar as fachadas por ângulos diferentes e avaliar os níveis de radiação pelo [diagrama de falsa cor](https://en.wikipedia.org/wiki/False_color).
 
-
-
 ![img rad surf](.\rad_04_03.jpg)
+
+
+![img rad surf](.\rad_04_04.jpg)
+
+![img rad surf](.\rad_04_05.jpg)
+
+![img rad surf](.\rad_04_05.jpg)
+
+![img rad surf](.\rad_04_06.jpg)
+
+![img rad surf](.\rad_04_07.jpg)
 ______________
 ______________
 
