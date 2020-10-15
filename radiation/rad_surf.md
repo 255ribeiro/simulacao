@@ -19,7 +19,6 @@ O resultado da análise aparece nas **Viewports** do Rhinoceros. É possível ob
 
 ![img rad surf](.\rad_04_03.jpg)
 
-
 ![img rad surf](.\rad_04_04.jpg)
 
 ![img rad surf](.\rad_04_05.jpg)
@@ -29,6 +28,16 @@ O resultado da análise aparece nas **Viewports** do Rhinoceros. É possível ob
 ![img rad surf](.\rad_04_06.jpg)
 
 ![img rad surf](.\rad_04_07.jpg)
+
+![img rad surf](.\rad_04_08.jpg)
+
+![img rad surf](.\rad_04_09.jpg)
+
+![img rad surf](.\rad_04_10.jpg)
+
+![img rad surf](.\rad_04_11.jpg)
+
+![img rad surf](.\rad_04_12.jpg)
 ______________
 ______________
 
