@@ -27,7 +27,7 @@ Coloque o **Boolean Toggle** da entrada **_runIt** do componente **Ladybug_Radia
 
 O parâmetro **_divisionAngle** recebe um valor maior que zero e menor que 180, indica de quanto em quantos ângulos o prédio deve girar de uma análise para outra.
 
-O Parâmetro **_totalAngle** representa o ângulo máximo (final) das rotações.
+O parâmetro **_totalAngle** representa o ângulo máximo (final) das rotações.
 
 Clique duas vezes na tela do Grasshopper e digite 0,0,0. Este atalho gera um ponto locado nas coordenadas digitadas.
 
