@@ -8,9 +8,8 @@
 
 2. Clique na seta ao lado no mome da vista.
 
-3. Escolha um estilo de visualização para a imagem. (o estilo ***Artic*** pode ser uma boa escolha para os gráficos)
-
-    ![captura](.\print_01.jpg)
+3. Escolha um estilo de visualização para a imagem.
+ ![captura](./print_01.jpg)
 
 1. Clique novamente na seta ao lado no nome da **viewport** e escolha as opções
    3. Capture
@@ -23,13 +22,13 @@
     3. Forato de saida (a opção custom permite ajustar as caracteristicas da imagem com maior precisão).
     4. Dimensões e DPI
     5. Salvar a imagem.
-![captura](.\print_de_tela.jpg)
+ ![captura](.\/print_de_tela.jpg)
 
 ### Criando um novo modo de vista
 
 As vezes é necessário configurar um modo de visualização (*display mode*) com características específicas para a exportação da imagem. 
 
-Neste exemplo vamos criar uma cópia do **Display Mode** **sahded** com a cor do fundo em banco para facilitar a impressão. Clique na seta ao lado do nome da vista e escolha a opção **Display Options**.
+Neste exemplo vamos criar uma cópia do **Display Mode** **shaded** com a cor do fundo em banco para facilitar a impressão. Clique na seta ao lado do nome da vista e escolha a opção **Display Options**.
 
 ![display options](./display_options.jpg)
 
