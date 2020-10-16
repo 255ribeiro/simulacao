@@ -11,7 +11,7 @@ As configurações de **north\_**, **\_geometry**, **context\_**, **\_gridSize\_
 
 ![img rad surf](.\rad_04_01_a.jpg)
 
-conectando um **Boolean Toogle** à entrada **_runIt** é possível rodar a simulação.
+Conectando um **Boolean Toogle** à entrada **_runIt** é possível rodar a simulação.
 
 ![img rad surf](.\rad_04_02.jpg)
 
