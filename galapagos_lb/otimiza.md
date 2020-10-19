@@ -125,16 +125,3 @@ Após 40 gerações sem alternar o valor maior que o encontrado na geração 23,
 Abaixo temos um arquivo com a cópia dos valores gravados durante a otimização.
 
 [registro da otimização](./RECORD.TXT)
-
-
-
-
-
-
-
-
-
-
-
-
-
