@@ -71,31 +71,58 @@ Para indicar o valor a ser usado como função de aptidão, é preciso arrastar 
 
 ![galapagos_01](./galapagos_04.jpg)
 
+Clique duas vezes no ícone do componente **Galapagos** para abrir o editor do *solver*.
+
 #### Rodando a simulação.
+
+O *Galapagos Editor* possui 3 abas: Options (para configurar a análise), Solver (para rodar a simulação) e Record (onde é gravado um registro do passo a passo de uma simulação).
+
+Em options podemos configurar:
+ 1. se o algoritmo vai procurar por um máximo ou mínimo local.
+ 2. quantas gerações podem ser geradas sem evolução na função de aptidão.
+ 3. O tamanho da população
+ 4. quantas vezes a população inicial será aumentada na primeira geração
+ 5. O percentual de indivíduos a serem mantidos conforme critério da função de aptidão.
+ 6. Percentual de indivíduos a serem gerados a partir da combinação dos genes de indivíduos mantidos na geração anterior.
 
 ![galapagos](./galapagos_05.jpg)
 
+1. Utilizar o solver genético
+2. iniciar a otimização
+3. diagrama das gerações
+4. representação da população
+5. representação do genoma
+6. representação dos indivíduos de uma geração
 
 ![galapagos](./galapagos_06.jpg)
 
+É possível selecionar uma gerção (1) e um indivíduo (2) de uma geração e ajustar os slidres para a posiçãod este individuo (3).
 
 ![galapagos](./galapagos_07.jpg)
 
+O pequeno sinal de + no diagrama das gerações indica que um novo valor para máximo global foi encontrado.
+
+Podemos ver o valor de máximo encontrado na geração 8 na imágem abaixo
 
 ![galapagos](./galapagos_08.jpg)
 
+Na geração 10, outro valor de máximo foi encontrado.
 
 ![galapagos](./galapagos_09.jpg)
 
+Na geração 22 um novo candidato a máximo global foi encontrado.
 
 ![galapagos](./galapagos_10.jpg)
 
+na geração 23 um novo valor é encontrado.
 
 ![galapagos](./galapagos_11.jpg)
 
+Após 40 gerações sem alternar o valor maior que o encontrado na geração 23, o solver atinge sua condição de parada.
 
 ![galapagos](./galapagos_12.jpg)  
 
+Abaixo temos um arquivo com a cópia dos valores gravados durante a otimização.
 
 [registro da otimização](./RECORD.TXT)
 

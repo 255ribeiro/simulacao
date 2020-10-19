@@ -191,21 +191,21 @@ _______
 
 ### Bim e ciência de dados
 
-1. Modelagem da Informação da Cidade - City Information Modeling
 
-2. IOT Internet of Things
+1. IOT Internet of Things
 
-3. IOT e BIM
+1. IOT e BIM
 
-4. Ciência de Dados
+1. Ciência de Dados
 
-5. Ciência de dados e ambiente construido
+1. Ciência de dados e ambiente construido
 
     1. IOT
-    2. Big Data
-    3. Vizualização de Dados
-    4. Exemplos de aplicação
+    1. Big Data
+    1. Modelagem da Informação da Cidade - City Information Modeling
+    1. Vizualização de Dados
+    1. Exemplos de aplicação
 
-6. [Interoperabilidade entre sistemas paramétricos](./interoperabilidade/inter.md)
+1. [Interoperabilidade entre sistemas paramétricos](./interoperabilidade/inter.md)
 
-7. Encerramento do curso
+1. Encerramento do curso
