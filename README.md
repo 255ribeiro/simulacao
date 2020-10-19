@@ -185,25 +185,27 @@ _______
 
 ## Parte II
 
-1. Simulação, construção e projetos
+### Otimização
+
+ 1. [Otimização estocástica](./galapagos_lb/otimiza.md)
+
+### Bim e ciência de dados
 
 1. Modelagem da Informação da Cidade - City Information Modeling
 
-1. IOT Internet of Things
+2. IOT Internet of Things
 
-1. IOT e BIM
+3. IOT e BIM
 
-1. Ciência de Dados
+4. Ciência de Dados
 
-1. Ciência de dados e ambiente construido
+5. Ciência de dados e ambiente construido
 
     1. IOT
-    1. Big Data
-    1. Vizualização de Dados
-    1. Exemplos de aplicação
+    2. Big Data
+    3. Vizualização de Dados
+    4. Exemplos de aplicação
 
-1. Orientação do Trabalho Prático
+6. [Interoperabilidade entre sistemas paramétricos](./interoperabilidade/inter.md)
 
-1. Interoperabilidade entre sistemas paramétricos
-
-1. Encerramento do curso
+7. Encerramento do curso
