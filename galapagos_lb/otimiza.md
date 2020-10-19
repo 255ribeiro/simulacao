@@ -4,7 +4,7 @@
 
 ## Método Hill Clibing
 
-### funcionamento do método
+### Funcionamento do método
 
 ![ilustra](./ha_ilustra_00.png)
 
