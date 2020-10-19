@@ -1,6 +1,5 @@
 # Interoperabilidade entre sistemas paramétricos
 
-
 ## Revit
 
 ### Sitema paramétrico nativo:
@@ -60,6 +59,9 @@
 
 ![imagem](https://live.staticflickr.com/5016/5430067223_41689b1331_b.jpg)
 
+[tutoriais VisualArq-Grasshopper](https://www.youtube.com/watch?v=4n8U-PGmhCk&list=PLLfTyZ7LBWcyk2htKb8RQPLHvE0llLGSZ)
+
+
 ## IFC
 
 #### GeometryGym
@@ -67,3 +69,5 @@
 [Site](https://geometrygym.wordpress.com/purchase/#support)
 
 [Download](https://www.food4rhino.com/app/bim-geomgym-ifc)
+
+
