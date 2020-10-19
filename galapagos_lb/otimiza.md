@@ -1,36 +1,37 @@
 # Otimização Estocástica.
 
+## Entendendo o problema
+_________________________________________
+### Método Hill Clibing
 
-
-## Método Hill Clibing
-
-### Funcionamento do método
+#### Funcionamento do método
 
 ![ilustra](./ha_ilustra_00.png)
 
-### Objetivo almejado
+#### Objetivo almejado
 
 ![ilustra](./hc_ilustra_01.jpg)
 
-### Limitações do método
+#### Limitações do método
 
 ![ilustra](./hc_ilustra_02.jpg)
 
 _______________________________________
 
 
-## Mínimos e máximos locais e Globais
+### Mínimos e máximos locais e Globais
 
 ![máximos e mínimus](https://upload.wikimedia.org/wikipedia/commons/6/68/Extrema_example_original.svg)
 
 ###### fonte: https://upload.wikimedia.org/wikipedia/commons/6/68/Extrema_example_original.svg
 
-## Problemas multivariáveis
+### Problemas multivariáveis
 
 ![multi var](https://upload.wikimedia.org/wikipedia/commons/5/5c/ConstrTestFunc02.png)
 
 [fonte](https://en.wikipedia.org/wiki/Test_functions_for_optimization#Test_functions_for_constrained_optimization)
 
+_________________________________________________________
 
 ## [Algoritmos Evolucionários](https://en.wikipedia.org/wiki/Evolutionary_algorithm)
 
@@ -46,13 +47,9 @@ _______________________________________
 
 #### Galapagos Solver
 
-
-
 [arquivo 3dm](./OTIMIZAÇÃO_EXEMPLO.3dm)
 
 [arquivo gh](./galapagos_lb.gh)
-
-
 
 O componente Galapagos fica na aba **Params**, seção **uitl**. 
 
