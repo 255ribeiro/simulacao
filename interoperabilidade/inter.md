@@ -8,7 +8,7 @@
 
  ![Dynamo](https://dynamobim.org/wp-content/themes/dynamo/img/dictionary-screen.png)
 
-### Interoperabilidade Rhino-Grasshopper - Revit
+### Interoperabilidade Rhino-Grasshopper/Revit
 
 #### Grevit
 
@@ -43,6 +43,12 @@
  ![Param-O](https://graphisoft.com/content/uploads/2020/06/tower-1024x512.png)
 
 ### Interoperabilidade Archicad-Grasshopper Connect
+
+![archi-grass](./ArchiGrass_connect_01.jpg)
+
+![archi-grass](./ArchiGrass_connect_02.jpg)
+
+
 
 [Arquivo Archicad](./interop.pln)
 
