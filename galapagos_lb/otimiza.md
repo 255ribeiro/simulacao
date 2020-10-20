@@ -1,11 +1,12 @@
 # Otimização Estocástica.
+________________________________________________
 
 ## Entendendo o problema
+
 _________________________________________
-### Método Hill Clibing
+### Método HILL CLIMBING
 
 #### Funcionamento do método
-
 ![ilustra](./ha_ilustra_00.png)
 
 #### Objetivo almejado
