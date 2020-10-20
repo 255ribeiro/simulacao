@@ -17,17 +17,18 @@ scriptFolder = os.path.dirname(os.path.realpath(__file__))
 
 ################################ CONFIGURATION #################################
 worksheetTitlesAndElements = {
-    "Beams": acc.GetElementsByType("Beam"),
-    "Walls": acc.GetElementsByType("Wall")
+    "Vigas": acc.GetElementsByType("Beam"),
+    "Paredes": acc.GetElementsByType("Wall")
 }
 propertyUserIds = [
     act.BuiltInPropertyUserId("General_ElementID"),
     act.BuiltInPropertyUserId("General_Height"),
     act.BuiltInPropertyUserId("General_Width"),
     act.BuiltInPropertyUserId("General_Thickness")
+
 ]
 outputFolder = scriptFolder
-outputFileName = "BeamAndWallGeometry.xlsx"
+outputFileName = "teste_BeamAndWallGeometry.xlsx"
 ################################################################################
 
 
