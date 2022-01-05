@@ -78,7 +78,7 @@ _______
 
 1. Simulação energética
     1. [Energy Plus](https://energyplus.net/)
-    ![imagem](https://energyplus.net/sites/all/modules/custom/nrel_custom/images/quickstart_3.png)
+    ![imagem](https://energyplus.net/assets/images/energyplus.png)
 
     1. [Radiance](https://www.radiance-online.org/)
     ![imagem](https://www.radiance-online.org/copy_of_NYT_sunrise.jpg)
