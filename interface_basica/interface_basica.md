@@ -15,7 +15,7 @@
     3. ***_run***
 
 3. As entradas com (**underscore**) no início e no fim do nome, são opcionais, tendo valores padrões que são usados quando nenhuma informação é inserida.
-   1. [*_mrt_*]
-   2. [*_wind_vel_]
+   1. Temperatura radiante média [*_mrt_*](https://en.wikipedia.org/wiki/Mean_radiant_temperature)
+   2. *_wind_vel_*
 
 [arquivo exemplo](./inferface_básica_final_1_3_0.gh)
