@@ -36,7 +36,7 @@ _______
 2. Caso o Rhinoceros seja instalado em português, mudar o idioma para inglês.
    - Instruções: https://wiki.mcneel.com/rhino/6/addlanguages
 
-3. baixar o Ladybugtools.
+3. Baixar o Ladybugtools.
    - Link : https://www.food4rhino.com/en/app/ladybug-tools#downloads_list
 
 4. Seguir as instruções de instalação.

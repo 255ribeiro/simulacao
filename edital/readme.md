@@ -16,6 +16,6 @@ _________________
     4. Outros estudos que se entenda pertinente
 
 2. Entrega
-    1. deve ser feita em até quinze(15) dias após o fim das aulas da disciplina
+    1. deve ser feita em até dez(10) dias após o fim das aulas da disciplina
     2. Em arquivo digital (preferencialmente PDF)
     3. Via Google Classroom
