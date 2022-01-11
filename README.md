@@ -55,7 +55,7 @@ _______
     2. Temperatura de bulbo seco
     3. Sensação Térmica (Universal Thermal Climate Index)
     4. Visualização da informação
-    5. *run_it*
+    5. *_run* ou *_run_it*
    
     ![Imagem](.\imagens\LadyBug_00.png)
 
