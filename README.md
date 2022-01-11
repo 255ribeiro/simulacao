@@ -24,10 +24,14 @@ _______
 
 ### [Projeto e Simulação](./Conceitos/proj_simula.md)
 
-1. relações entre projeto e simulação
-2. Matemática das simulações.
-3. Algumas ferramentas de simulação para a construção civil    
+1. Relações entre projeto e simulação
+1. Algumas ferramentas de simulação para a construção civil 
 
+
+
+### [Matemática das simulações](./Conceitos/math_sim.md)
+
+1. Matemática das simulações.
 
 ### Instalação: Ladybug + Honebee
 
