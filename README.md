@@ -13,7 +13,7 @@ _______
 _______
 _______
 
-## Parte I
+## Parte I - Introdução
 
 
 ### [Simulação e Bim - Conceitos](./Conceitos/conceitos.md)
@@ -57,6 +57,12 @@ _______
 [guia de geração de imagens raster](./print_view/print_de_viewport.md)
 1. Salvando Imagens da viewport do Rhinoceros
 2. Salvando algoritmos do Grasshopper
+
+## Parte II - Análises Climaticas
+
+_______
+_______
+
 
 ### Trabalhado com arquivos EPW
 
@@ -116,9 +122,7 @@ Arquivos EPW utilizados na aula:
 _______
 _______
 
-## Parte II
-
-### Otimização
+## Parte III - Otimização
 
  1. [Otimização estocástica](./galapagos_lb/otimiza.md)
 
