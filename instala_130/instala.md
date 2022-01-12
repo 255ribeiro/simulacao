@@ -17,7 +17,11 @@
 
 4. Executar os passos opcionais de instalação do **Radiance** e do **Openstudio**:
    - [https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps)
-   - ou: baixe instaladores do **Radiance** e do **Openstudio** relativos à versão do **Ladybug Tools** que você instalou, segundo as informações contidas na [matriz de compatibilidade](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.4-Compatibility-Matrix) para a sua versão do Ladybug Tools. Preferencialmente, instale os programas na pasta : ``` %userprofile%\ladybug_tools ``` (recomendado pela documentaçãod e instalação, embora )
+   - ou: baixe instaladores do **Radiance** e do **Openstudio** relativos à versão do **Ladybug Tools** que você instalou, segundo as informações contidas na [matriz de compatibilidade](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.4-Compatibility-Matrix) para a sua versão do Ladybug Tools. Preferencialmente, instale os programas nas pastas :
+   ``` %userprofile%\ladybug_tools\radiance ``` e
+  ``` %userprofile%\ladybug_tools\openstudio ``` 
+  
+  (recomendado pela documentação de instalação, embora a mesma fonte diga que os programas funcionam no caminho padrão)
 
 ## Testando a instalação:
 
