@@ -17,15 +17,19 @@
 
 4. Executar os passos opcionais de instalação do **Radiance** e do **Openstudio**:
    - [https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps)
+   - ou: baixe instaladores do **Radiance** e do **Openstudio** relativos à versão do **Ladybug Tools** que você instalou, segundo as informações contidas na [matriz de compatibilidade](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.4-Compatibility-Matrix) para a sua versão do Ladybug Tools. Preferencialmente, instale os programas na pasta : ``` %userprofile%\ladybug_tools ``` (recomendado pela documentaçãod e instalação, embora )
 
 ## Testando a instalação:
 
-Para testar a instalação, na aba **HoneyBee** na paleta **1::Visualize**, utilize os componentes **HB Check Version** e **HB Config**.
+Para testar a instalação, na aba **HoneyBee** na paleta **1::Visualize**, utilize os componentes **HB Check Version** e **HB Config** e coloque painéis para ver a saída dos componentes. Alternativamente, pode-se usar o arquivo de teste na instalação disponível no link abaixo:
 
 - [Arquivo Teste](./install_check.gh)
 
-![Install_check](../imagens/Install_check.jpg)
+![Install_check](./Install_check.jpg)
 
+Compare os valores de saída do componente **HB Check Version** com as versões apresentadas na matriz de compatibilidade para a sua versão do Ladybug Tools
+
+#### Pastas importantes da instalação do LadybugTools:
 
 - Pasta da instalação do Ladybug tools: 
         ``` %userprofile%\ladybug_tools ```
