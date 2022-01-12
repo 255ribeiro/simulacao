@@ -19,13 +19,13 @@ O componente **LB FalseStar Toogle** funciona da mesma maneira que um componente
 
 ![site](../epw_arq/site_epw_LI.jpg)
 
-#### Clique em cima da estação desejada e escolha a a opção que copia o link
+1. Clique em cima da estação desejada e escolha a a opção que copia o link
 
-#### IMPORTANTE! Caso tenha usado um **Boolean Toggle** padrão do **Grasshopper**, lembre-se de desativar o conector booleano depois de copiar o caminho do arquivo.
+    #### IMPORTANTE! Caso tenha usado um **Boolean Toggle** padrão do **Grasshopper**, lembre-se de desativar o conector booleano depois de copiar o caminho do arquivo.
 
-### Copie o link em um painel do Grasshopper. Use o painel como entrada para o componente **LB Download Weather**
+1. Copie o link em um painel do Grasshopper. Use o painel como entrada para o componente **LB Download Weather**
 
-### O **LB Download Weather** torna as informações do arquivo disponíveis para manipulação no Grasshopper
+1. O **LB Download Weather** torna as informações do arquivo disponíveis para manipulação no Grasshopper. Conecte a saída **epw_file** do **LB Download Weather** na entrda de um componente **LB Import EPW**, aba **Ladybug** paleta **0::Import**.
 
 ![Open_stat_epw](./epw.gif)
 

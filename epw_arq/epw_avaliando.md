@@ -2,13 +2,13 @@
 
 Em algumas cidades podemos encontrar vários arquivos epw. Cada um contendo informações colhidas por uma estação meteorológica diferente.
 
-Um conjunto de dados adequado é fundamental para qualquer análise e simulação. A saída **output** do componente **Import EPW File** mostra as mensagens do script. Caso a importação seja bem sucedida, a mensagem exibida será como a da figura abaixo.
+Um conjunto de dados adequado é fundamental para qualquer análise e simulação. 
 
-Uma das formas adequação de um conjunto de dados é pelos dados de localização. Estes podem ser acessados pelo componente **Deconstruct Location**.
+Uma das informações contidas em um arquivo EPW estão nos dados de localização. Estes podem ser acessados pelo componente **LB Deconstruct Location**.
 
 ![location](./location.jpg)
 
-Abaixo da saída **Location** temos os dados climáticos em sequência, com exceção da última saída: **modelYear**, que apresenta os anos em que os dados foram colhidos para criar o modelo de temperaturas padrões durante o ano.
+Abaixo da saída **Location** temos os dados climáticos em sequência, com exceção da penúltima saída: **modelYear**, que apresenta os anos em que os dados foram colhidos para criar o modelo de temperaturas padrões durante o ano.
 
 ![modelYear](./modelYear.png)
 

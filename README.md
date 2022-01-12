@@ -50,9 +50,7 @@ _______
     4. Visualização da informação
     5. *_run*
    
-    ![Imagem](.\imagens\LadyBug_00.png)
-
-### Salvando Imagens das telas do Rhinoceros e do grasshopper
+### Salvando Imagens das telas do Rhinoceros e do Grasshopper
 
 [guia de geração de imagens raster](./print_view/print_de_viewport.md)
 1. Salvando Imagens da viewport do Rhinoceros
