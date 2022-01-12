@@ -35,28 +35,7 @@ _______
 
 ### Instalação: Ladybug + Honebee
 
-1. Instalar o **Rhinoceros** ( versão 6 ou 7 )
-
-2. Caso o **Rhinoceros** seja instalado em português, mudar o idioma para inglês.
-   - Instruções: [https://wiki.mcneel.com/rhino/6/addlanguages](https://wiki.mcneel.com/rhino/6/addlanguages)
-
-3. Baixar o **Ladybugtools**.
-   - Link : [https://www.food4rhino.com/en/app/ladybug-tools#downloads_list](https://www.food4rhino.com/en/app/ladybug-tools#downloads_list)
-4. Seguir as instruções de instalação.
-   - link: [https://github.com/ladybug-tools/lbt-grasshopper/wiki](https://github.com/ladybug-tools/lbt-grasshopper/wiki)
-
-5. Executar os passos opcionais de instalação do **Radiance** e do **Openstudio**:
-   - [https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps)
-
-#### Testando a instalação:
-
-- [Arquivo Teste](./Arquivos/Arquivos_Parte_I/install_check.gh)
-- Pasta da instalação do Ladybug tools: 
-        ``` %userprofile%\ladybug_tools ```
-- Pasta da instalação dos **Plugins** do **Grasshopper**: 
-        ``` %APPDATA%\Grasshopper ```
-- Pasta de download dos dados climáticos:
-        ``` C:\ladybug ```
+[guia de instalação](./instala_130/instala.md)
 
 
 ### Interface básica Ladybug tools
@@ -69,7 +48,7 @@ _______
     2. Temperatura de bulbo seco
     3. Sensação Térmica (Universal Thermal Climate Index)
     4. Visualização da informação
-    5. *_run* ou *_run_it*
+    5. *_run*
    
     ![Imagem](.\imagens\LadyBug_00.png)
 
