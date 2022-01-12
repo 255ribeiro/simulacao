@@ -48,6 +48,9 @@ _______
 5. Executar os passos opcionais de instalação do Radiance e do Openstudio:
    - [https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps)
 
+6. Testando a instalação:
+   - [Arquivo teste](./Arquivos/Arquivos_Parte_I/install_check.gh)
+
 
 ### Interface básica Ladybug tools
 
