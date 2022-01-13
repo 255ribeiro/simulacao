@@ -2,13 +2,13 @@
 
 _______
 
-## MBI BIM | SENAI-CIMATEC | 2020
+## MBI BIM | SENAI-CIMATEC | 2022
 
 ### Prof. Fernando Ferraz Ribeiro | ffribeiro@gmail.com
 
 _______
 
-### [Edital de Avaliação](./edital/edital_01.md)
+### [Edital de Avaliação](./edital/editsal_01.md)
 
 _______
 _______
