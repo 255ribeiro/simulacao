@@ -45,39 +45,44 @@ _______
 1. Ambiente de trabalho
 
     1. Análise de conforto térmico (exterior)
-    2. Temperatura de bulbo seco
-    3. Sensação Térmica (Universal Thermal Climate Index)
-    4. Visualização da informação
-    5. *_run*
+    1. Temperatura de bulbo seco
+    1. Sensação Térmica (Universal Thermal Climate Index)
+    1. PMV e Adaptive Comfort
+    1. *_run*
+
+1. Introdução à Geração de Gráficos no Ladybugs Tools
+   
+   1. [Psychometric Chart](./psychometric/psychart.md)
+   
+
+   
    
 ### Salvando Imagens das telas do Rhinoceros e do Grasshopper
 
 [guia de geração de imagens raster](./print_view/print_de_viewport.md)
 1. Salvando Imagens da viewport do Rhinoceros
-2. Salvando algoritmos do Grasshopper
+1. Salvando algoritmos do Grasshopper
 
 ## Parte II - Análises Climaticas
 
 _______
 _______
 
-
 ### Trabalhado com arquivos EPW
 
 
 1. [Baixando Arquivos EPW e Importando os Dados](./epw_arq/ladybug_epw.md)
 
-2. [Avaliação inicial dos dados do arquivo](./epw_arq/epw_avaliando.md)
-
+1. [Avaliação inicial dos dados do arquivo](./epw_arq/epw_avaliando.md)
 
 
 ### Gráficos de Temperatura e Ventos
 
 1. [Gráficos de Linhas](./graficos_temp_um_vent/Grafico_de_linhas.md)
 
-2. [Mapa de calor](./graficos_temp_um_vent/heatmap.md)
+1. [Mapa de calor](./graficos_temp_um_vent/heatmap.md)
 
-3. [Rosa dos ventos](./graficos_temp_um_vent/Rosa_dos_ventos.md)
+1. [Rosa dos ventos](./graficos_temp_um_vent/Rosa_dos_ventos.md)
 
 ![Imagem](.\imagens\LadyBug_01.png)
 
@@ -111,11 +116,13 @@ Arquivos EPW utilizados na aula:
 
 #### Fontes de informação
 
-[Hydra](https://hydrashare.github.io/hydra/)
+[docs](https://docs.ladybug.tools/ladybug-primer/#installation)
 
 [Tutoriais Chris Mackey](https://www.youtube.com/playlist?list=PLruLh1AdY-Sho45_D4BV1HKcIz7oVmZ8v)
 
 [EPWMAP](https://www.ladybug.tools/epwmap/)
+
+[Hydra](https://hydrashare.github.io/hydra/)
 
 _______
 _______
@@ -133,14 +140,12 @@ _______
 
 1. Ciência de Dados
 
-1. Ciência de dados e ambiente construido
+1. Ciência de dados e ambiente construído
 
     1. IOT
     1. Big Data
     1. Modelagem da Informação da Cidade - City Information Modeling
     1. Vizualização de Dados
     1. Exemplos de aplicação
-
-1. [Interoperabilidade entre sistemas paramétricos](./interoperabilidade/inter.md)
 
 1. Encerramento do curso

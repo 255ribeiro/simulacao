@@ -1,66 +1,72 @@
 # Salvando imagens de tela do Rhinoceros e do Grasshopper
 
-## Salvando a Imagem de uma *viewport* no Rhinoceros
-
-### Usando um modo de vista existente
-
-1. Maximize a vista que deseja salvar (clicando duas vezes no nome da vista).
-
-2. Clique na seta ao lado no mome da vista.
-
-3. Escolha um estilo de visualização para a imagem.
- ![captura](./print_01.jpg)
-
-1. Clique novamente na seta ao lado no nome da **viewport** e escolha as opções
-   3. Capture
-   4. To File
-
-1. Configure as oções de saída da imagem.
-
-    1. Nome da vista que deseja capturar.
-    2. Configurações dos eixos da imagem.
-    3. Forato de saida (a opção custom permite ajustar as caracteristicas da imagem com maior precisão).
-    4. Dimensões e DPI
-    5. Salvar a imagem.
- ![captura](.\/print_de_tela.jpg)
 
 ### Criando um novo modo de vista
 
 As vezes é necessário configurar um modo de visualização (*display mode*) com características específicas para a exportação da imagem. 
 
-Neste exemplo vamos criar uma cópia do **Display Mode** **shaded** com a cor do fundo em banco para facilitar a impressão. Clique na seta ao lado do nome da vista e escolha a opção **Display Options**.
+Neste exemplo vamos criar uma cópia do **Display Mode** **Wireframe** e configurar para . Clique na seta ao lado do nome da vista e escolha a opção **Display Options**.
 
-![display options](./display_options.jpg)
+![print_01](./print_01.jpg)
 
-Em seguida, selecione a a opção **Display Modes** depois selecione o modo **shaded** e clique em **new**. 
+Em seguida, selecione a a opção **Display Modes** depois selecione o modo **Wireframe** e clique em **new**. 
 
-![New_display_modes](./New_display_mode.jpg)
+![print_02](./print_02.jpg)
 
-Digite umnome para o seu novo modo e, na configuração de Background, escolha a opção **solid color**.
+Digite um nome para o seu novo modo, neste exemplo escolhemos o nome **print**. Marque as opções **shade objects** e  **fill shading**
 
-![solid color](./solid_color.jpg)
+![print_03](./print_03.jpg)
 
-Clique no botão que mostra a cor do backgound, em seguida, escolha a opção white. Clique em ok para confirmar a seleção da cor e, caso não queira fazer mais nenhum ajuste, clique em ok novamente, conforme indicado na figura abaixo:
+Na configuração de **Background** selecione a opção **Solid Color**
 
-![seleciorar cor de fundo](./select_color.jpg)
+![print_04](./print_04.jpg)
 
-Clicando na seta ao lado do nome da vista, é possível selecionar o novo modo de vista, selecionado o nome escolhido.
+Em seguida, clique para configurar uma cor branca para o fundo da **viewport** conforme figura abaixo.
 
-![slect new mode](./select_new_mode.jpg)
+![print_05](./print_05.jpg)
+
+No ajuste de visualização da malha para o **Display Mode** criado, ative a opção **Use mode specific settings**.
+
+![print_06](./print_06.jpg)
+
+Desabilite as opções de malha para o modo de visualização. Clique em **OK** para finalizar a configuração.
+
+![print_07](./print_07.jpg)
+
+## Selecionando o Display Mode configurado
+
+Clique na seta ao lado do nome da vista, procure pelo nome escolhido para o **Display Mode** e selecione.
+
+![print_08](./print_08.jpg)
+
+
+## Salvando uma vista do Rhinoceros
+
+Clique na seta ao lado do nome da vista, selecione **Capture** em seguida selecione a opção **To File**.
+
+![print_09](./print_09.jpg)
+
+Ajuste as opções de resolução e cique em **OK** para salvar a imagem.
+
+![print_10](./print_10.jpg)
 
 ## Salvando uma imagem de um algoritmo no Grasshopper.
 
 1. No Grasshopper, va no menu File->Export hi-res image.
 
-    ![export_hi_res](grasshopper_hi_res.jpg)
+    ![export_hi_res](.\hi_res_01.jpg)
 
-1. Na caixa de diálogo, clique nas reticências mo canto superior direito da tela
+2. Na caixa de diálogo, clique nas reticências no canto superior direito da tela
 
-    ![export hi res](.\grasshopper_hi_res_02.jpg)
+    ![export hi res](.\hi_res_02.jpg)
 
-2. Escolha a pasta e o nome que deseja dar ao arquivo. Clique em salvar
+3. Escolha a pasta e o nome que deseja dar ao arquivo. Clique em salvar
 
-1. de volta a caixa de dialogo, clique em ok.
+    ![export hi res](.\hi_res_03.jpg)
 
-###### Para cada nova imagem, o nome do arquivo tem que ser alterado clicando nas reticencias no canto superior direito da caixa de diálogo. Se não, o último arquivo salvo sobrescreve o anterior.
+4. de volta a caixa de dialogo, clique em ok.
+
+    ![export hi res](.\hi_res_04.jpg)
+
+###### ATENÇÂO! Para cada nova imagem, o nome do arquivo tem que ser alterado clicando nas reticencias no canto superior direito da caixa de diálogo. Se não, o último arquivo salvo sobrescreve o anterior.
 
