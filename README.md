@@ -8,7 +8,7 @@ _______
 
 _______
 
-### [Edital de Avaliação](./edital/editsal_01.md)
+### [Edital de Avaliação](./edital/edital_01.md)
 
 _______
 _______
