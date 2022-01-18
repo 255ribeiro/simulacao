@@ -4,6 +4,9 @@
 
 ![leg_par](./lg_par_color_range.jpg)
 
-![alg](./alg_hoy_chart.png)
+-------------------
 
 [Arquivo final](./hourly_chart.gh)
+
+![alg](./alg_hoy_chart.png)
+
