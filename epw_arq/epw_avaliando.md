@@ -10,11 +10,9 @@ Uma das informações contidas em um arquivo EPW estão nos dados de localizaç�
 
 Abaixo da saída **Location** temos os dados climáticos em sequência, com exceção da penúltima saída: **modelYear**, que apresenta os anos em que os dados foram colhidos para criar o modelo de temperaturas padrões durante o ano.
 
-![modelYear](./modelYear.png)
+As saídas dos arquivos epw costumam combinar dados textuais e valores. Os demais componentes dos *plugins* Ladybug Tools conseguem separar os dados textuais dos valores automaticamente. Mas para usar os valores em outros componentes do Grashopper é útil usar o componente **LB Deconstruct data**. 
 
-As saídas dos arquivos epw costumam combinar dados textuais e valores. Os demais componentes dos *plugins* Ladybug Tools conseguem separar os dados textuais dos valores automaticamente. Mas para usar os valores em outros componentes do Grashopper é útil usar o componente **separate data**. 
-
-![Separate data](./lb_separate_string_numbers.jpg)
+![Separate data](./separate_data.jpg)
 
 O componente **create set** ajuda na análise de longas listas de informação. A saída **set** apresenta apenas os valores únicos. Neste caso, podemos ver a lista de anos utilizada para modelar os dados.
 
