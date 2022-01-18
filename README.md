@@ -80,17 +80,17 @@ _______
 
 1. [Gráficos mensais](./m_chart/month_chart.md)
 
-2. [Mapa de calor](./hourly/hourly_chart.md)
+2. [Gráficos por hora do ano](./hourly/hourly_chart.md)
 
 3. [Rosa dos ventos](./wind_rose/Rosa_dos_ventos.md)
 
-![Imagem](.\imagens\LadyBug_01.png)
+
 
 Arquivos EPW utilizados na aula:
 
-[cidade01](./epw_arq_exemplos/BRA_BA_Salvador.866780_INMET.zip)
+ - [cidade01](./epw_arq_exemplos/BRA_BA_Salvador.866780_INMET.zip)
 
-[cidade02](epw_arq_exemplos/BRA_SC_Chapeco.838830_TMYx.zip)
+ - [cidade02](epw_arq_exemplos/BRA_SC_Chapeco.838830_TMYx.zip)
 
 ### Análise de Insolejamento - parte 1
 
@@ -100,7 +100,6 @@ Arquivos EPW utilizados na aula:
 
 1. [Análise de horas de insolejamento](./sunpath/Analise_horas_de_sol.md)
 
-    ![Imagem](.\imagens\LadyBug_02.png)
 
 ### Análise de Insolejamento - parte 2
 
@@ -112,7 +111,7 @@ Arquivos EPW utilizados na aula:
 
 1. [Radiação nas Superfícies](./radiation/rad_surf.md)
 
-    ![Imagem](.\imagens\LadyBug_03.png)
+ 
 
 #### Fontes de informação
 
