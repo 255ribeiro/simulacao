@@ -100,15 +100,19 @@ Arquivos EPW utilizados na aula:
 
 1. [Análise de horas de insolejamento](./sunpath/Analise_horas_de_sol.md)
 
+1. [Norte a partir de linha](./norte/norte_linha.md)
+
 
 ### Análise de Insolejamento - parte 2
 
 1. [Arquivo base para análise de radiação solar](./radiation/radiation.md)
 
+
+
 1. [Sky Dome](./radiation/skydome.md)
 
 
-2. [Radiação nas Superfícies](./radiation/rad_surf.md)
+1. [Radiação nas Superfícies](./radiation/rad_surf.md)
 
  
 
