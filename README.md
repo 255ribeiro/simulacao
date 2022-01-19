@@ -40,7 +40,7 @@ _______
 
 ### Interface básica Ladybug tools
 
-[guia de interface](./interface_basica/interface_basica.md)
+[Guia de interface](./interface_basica/interface_basica.md)
 
 1. Ambiente de trabalho
 
@@ -59,7 +59,7 @@ _______
    
 ### Salvando Imagens das telas do Rhinoceros e do Grasshopper
 
-[guia de geração de imagens raster](./print_view/print_de_viewport.md)
+[Guia de geração de imagens raster](./print_view/print_de_viewport.md)
 1. Salvando Imagens da viewport do Rhinoceros
 1. Salvando algoritmos do Grasshopper
 
@@ -153,3 +153,7 @@ _______
 - [EPWMAP](https://www.ladybug.tools/epwmap/)
 
 - [Hydra](https://hydrashare.github.io/hydra/)
+
+---------
+---------
+
