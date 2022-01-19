@@ -77,11 +77,11 @@ _______
 
 1. [Avaliação inicial dos dados do arquivo](./epw_arq/epw_avaliando.md)
 
-Arquivos EPW utilizados na aula:
+- Arquivos EPW utilizados na aula:
 
- - [Salvador](./epw_arq_exemplos/BRA_BA_Salvador-Magalhaes.Intl.AP.832480_TMYx.zip)
+  - [Salvador](./epw_arq_exemplos/BRA_BA_Salvador-Magalhaes.Intl.AP.832480_TMYx.zip)
 
- - [Chapecó](./epw_arq_exemplos/BRA_SC_Chapeco.838830_TMYx.zip)
+  - [Chapecó](./epw_arq_exemplos/BRA_SC_Chapeco.838830_TMYx.zip)
 
 
 ### Gráficos de Temperatura e Ventos
