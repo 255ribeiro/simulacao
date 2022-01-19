@@ -8,6 +8,8 @@ _______
 
 _______
 
+### [Programa da discilina](./mbi_bim_cimatec/programa_da_disciplina.md)
+
 ### [Edital de Avaliação](./edital/edital_01.md)
 
 _______
