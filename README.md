@@ -63,10 +63,12 @@ _______
 1. Salvando Imagens da viewport do Rhinoceros
 1. Salvando algoritmos do Grasshopper
 
+_______
+_______
+
+
 ## Parte II - Análises Climaticas
 
-_______
-_______
 
 ### Trabalhado com arquivos EPW
 
@@ -114,18 +116,6 @@ Arquivos EPW utilizados na aula:
 
 1. [Radiação nas Superfícies](./radiation/rad_surf.md)
 
- 
-
-#### Fontes de informação
-
-[docs](https://docs.ladybug.tools/ladybug-primer/#installation)
-
-[Tutoriais Chris Mackey](https://www.youtube.com/playlist?list=PLruLh1AdY-Sho45_D4BV1HKcIz7oVmZ8v)
-
-[EPWMAP](https://www.ladybug.tools/epwmap/)
-
-[Hydra](https://hydrashare.github.io/hydra/)
-
 _______
 _______
 
@@ -151,3 +141,17 @@ _______
     1. Exemplos de aplicação
 
 1. Encerramento do curso
+
+---------
+---------
+
+
+### Referências e fontes de informação
+
+- [Ladybug - docs](https://docs.ladybug.tools/ladybug-primer/#installation)
+
+- [Tutoriais Chris Mackey](https://www.youtube.com/playlist?list=PLruLh1AdY-Sho45_D4BV1HKcIz7oVmZ8v)
+
+- [EPWMAP](https://www.ladybug.tools/epwmap/)
+
+- [Hydra](https://hydrashare.github.io/hydra/)
