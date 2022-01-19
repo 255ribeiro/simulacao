@@ -67,7 +67,7 @@ _______
 _______
 
 
-## Parte II - Análises Climaticas
+## Parte II - Análises Climáticas
 
 
 ### Trabalhado com arquivos EPW
@@ -94,7 +94,7 @@ Arquivos EPW utilizados na aula:
 
  - [cidade02](epw_arq_exemplos/BRA_SC_Chapeco.838830_TMYx.zip)
 
-### Análise de Insolejamento - parte 1
+### Análise de Insolejamento - incidência solar
 
 1. [Percurso aparente do Sol](./sunpath/Percurso_aparente_do_Sol.md)
 
@@ -102,17 +102,15 @@ Arquivos EPW utilizados na aula:
 
 1. [Análise de horas de insolejamento](./sunpath/Analise_horas_de_sol.md)
 
+#### Extra
+
 1. [Norte a partir de linha](./norte/norte_linha.md)
 
-
-### Análise de Insolejamento - parte 2
+### Análise de Insolejamento - radiação solar
 
 1. [Arquivo base para análise de radiação solar](./radiation/radiation.md)
 
-
-
 1. [Sky Dome](./radiation/skydome.md)
-
 
 1. [Radiação nas Superfícies](./radiation/rad_surf.md)
 
