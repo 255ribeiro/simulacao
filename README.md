@@ -123,6 +123,12 @@ _______
 
  1. [Otimização estocástica](./galapagos_lb/otimiza.md)
 
+
+_______
+_______
+
+## Parte IV - Simulação e inovação
+
 ### Bim e ciência de dados
 
 
