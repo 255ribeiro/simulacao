@@ -8,7 +8,6 @@
 
 ---------------------------------------
 
-
 ## Separando total, direto e difuso
 
 
