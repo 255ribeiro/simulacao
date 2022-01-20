@@ -50,7 +50,7 @@ _________________________________________________________
 
 [arquivo 3dm](./OTIMIZA_EXEMPLO.3dm)
 
-[arquivo gh](./galapagos_lb.gh)
+[arquivo gh](./galapagosLadyBug.gh)
 
 O componente Galapagos fica na aba **Params**, seção **uitl**. 
 
