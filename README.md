@@ -148,7 +148,10 @@ _______
     1. Vizualização de Dados
     1. Exemplos de aplicação
 
-1. Encerramento do curso
+---------
+---------
+
+## Encerramento do curso
 
 ---------
 ---------
