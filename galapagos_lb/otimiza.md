@@ -3,6 +3,11 @@ ________________________________________________
 
 ## Entendendo o problema
 
+
+[exemplo teórico 3dm](./galapagos_exemplo_teorico.3dm)
+
+[exemplo teórico gh](./galapagos_exemplo_teorico.gh)
+
 _________________________________________
 ### Método HILL CLIMBING
 
