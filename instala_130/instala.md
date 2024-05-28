@@ -2,7 +2,7 @@
 
 ## Instalação do **Rhinoceros**
 
-1. Instalar o **Rhinoceros** ( versão 6 ou 7 )
+1. Instalar o **Rhinoceros** ( versão 6, 7 ou 8)
    - link: [https://www.rhino3d.com/download/](https://www.rhino3d.com/download/)
 
 1. Caso o **Rhinoceros** seja instalado em português, mudar o idioma para inglês.
