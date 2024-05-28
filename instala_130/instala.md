@@ -8,20 +8,36 @@
 1. Caso o **Rhinoceros** seja instalado em português, mudar o idioma para inglês.
    - Instruções: [https://wiki.mcneel.com/rhino/6/addlanguages](https://wiki.mcneel.com/rhino/6/addlanguages)
 
+
 ## Instalação do Ladybug Tools
 
-2. Baixar o **Ladybugtools**.
+Uma vez que o Rhinoceros esteja instalado, existem **dois métodos** de instalação do LadyBugTools.
+
+1. A mais fácil é pelo instalador do plug-in Pollination para Grasshopper. Este instala todas as dependências necessárias.
+
+2. A outra é usando o instalador do LadyBugTools, para essa instalação funcionar, é necessário instalar todas as dependências conforme instruções na documentação.
+
+### Método 1: Instalação o plug-in Pollination:
+
+1. Clique no Link [https://www.pollination.cloud/](https://www.pollination.cloud/) - é preciso fazer uma conta no site do pollination para baixar.
+2. Baixar o plugin do Pollination para Grasshopper - link [https://www.pollination.cloud/grasshopper-plugin](https://www.pollination.cloud/grasshopper-plugin)
+3. Rode o instalador e siga as instruções
+
+### Método 2: Instalando o LadyBugTools e todas as dependências:
+
+1. Baixar o **Ladybugtools**.
    - Link : [https://www.food4rhino.com/en/app/ladybug-tools#downloads_list](https://www.food4rhino.com/en/app/ladybug-tools#downloads_list)
-3. Seguir as instruções de instalação.
+  
+1. Seguir as instruções de instalação.
    - link: [https://github.com/ladybug-tools/lbt-grasshopper/wiki](https://github.com/ladybug-tools/lbt-grasshopper/wiki)
 
-4. Executar os passos opcionais de instalação do **Radiance** e do **Openstudio**:
+2. Executar os passos opcionais de instalação do **Radiance**, do **Openstudio** e do **URBANopt**:
    - [https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps)
-   - ou: baixe instaladores do **Radiance** e do **Openstudio** relativos à versão do **Ladybug Tools** que você instalou, segundo as informações contidas na [matriz de compatibilidade](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.4-Compatibility-Matrix) para a sua versão do Ladybug Tools. Preferencialmente, instale os programas nas pastas :
+   - ou: baixe instaladores do **Radiance**, do **Openstudio** e do **URBANopt** relativos à versão do **Ladybug Tools** que você instalou, segundo as informações contidas na [matriz de compatibilidade](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.4-Compatibility-Matrix) para a sua versão do Ladybug Tools. Preferencialmente, instale os programas nas pastas :
    ``` %userprofile%\ladybug_tools\radiance ``` e
   ``` %userprofile%\ladybug_tools\openstudio ``` 
   
-  (recomendado pela documentação de instalação, embora a mesma fonte diga que os programas funcionam no caminho padrão)
+  (recomendado pela documentação de instalação, embora a mesma fonte diga que os programas funcionam no caminho padrão sugerido pelo instalador)
 
 ## Testando a instalação:
 
