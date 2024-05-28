@@ -26,7 +26,7 @@ Uma vez que o Rhinoceros esteja instalado, existem **dois métodos** de instala�
 ### Método 2: Instalando o LadyBugTools e todas as dependências:
 
 1. Baixar o **Ladybugtools**.
-   - Link : [https://www.food4rhino.com/en/app/ladybug-tools#downloads_list](https://www.food4rhino.com/en/app/ladybug-tools#downloads_list)
+   - Link : [https://www.food4rhino.com/en/app/ladybug-tools#downloads_list](https://www.food4rhino.com/en/app/ladybug-tools#downloads_list) - é preciso fazer uma conta no site para baixar.
   
 1. Seguir as instruções de instalação.
    - link: [https://github.com/ladybug-tools/lbt-grasshopper/wiki](https://github.com/ladybug-tools/lbt-grasshopper/wiki)
