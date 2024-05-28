@@ -20,7 +20,7 @@ Uma vez que o Rhinoceros esteja instalado, existem **dois métodos** de instala�
 ### Método 1: Instalação o plug-in Pollination:
 
 1. Clique no Link [https://www.pollination.cloud/](https://www.pollination.cloud/) - é preciso fazer uma conta no site do pollination para baixar o instalador.
-2. Baixe o instalador do plugin do Pollination para Grasshopper - link [https://www.pollination.cloud/grasshopper-plugin](https://www.pollination.cloud/grasshopper-plugin)
+2. Baixe o instalador do plugin do Pollination para Grasshopper - no link [https://www.pollination.cloud/grasshopper-plugin](https://www.pollination.cloud/grasshopper-plugin) ou seguindo os passos registrados no gif abaixo.
 
 ![Pollination install](pollination_install.gif)
 
