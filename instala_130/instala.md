@@ -21,7 +21,12 @@ Uma vez que o Rhinoceros esteja instalado, existem **dois métodos** de instala�
 
 1. Clique no Link [https://www.pollination.cloud/](https://www.pollination.cloud/) - é preciso fazer uma conta no site do pollination para baixar.
 2. Baixar o plugin do Pollination para Grasshopper - link [https://www.pollination.cloud/grasshopper-plugin](https://www.pollination.cloud/grasshopper-plugin)
+
+![Pollination install](pollination_install.gif)
+
 3. Rode o instalador e siga as instruções
+
+
 
 ### Método 2: Instalando o LadyBugTools e todas as dependências:
 
