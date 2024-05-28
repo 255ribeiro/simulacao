@@ -33,7 +33,9 @@ Uma vez que o Rhinoceros esteja instalado, existem **dois métodos** de instala�
 
 2. Executar os passos opcionais de instalação do **Radiance**, do **Openstudio** e do **URBANopt**:
    - [https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps)
-   - ou: baixe instaladores do **Radiance**, do **Openstudio** e do **URBANopt** relativos à versão do **Ladybug Tools** que você instalou, segundo as informações contidas na [matriz de compatibilidade](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.4-Compatibility-Matrix) para a sua versão do Ladybug Tools. Preferencialmente, instale os programas nas pastas : <br>
+   - ou: baixe instaladores do **Radiance**, do **Openstudio** e do **URBANopt** relativos à versão do **Ladybug Tools** que você instalou, segundo as informações contidas na [matriz de compatibilidade](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.4-Compatibility-Matrix) para a sua versão do Ladybug Tools.
+
+   - Preferencialmente, instale os programas nas pastas : <br>
   
       ``` %userprofile%\ladybug_tools\radiance ``` e
       ``` %userprofile%\ladybug_tools\openstudio ``` 
