@@ -34,8 +34,9 @@ Uma vez que o Rhinoceros esteja instalado, existem **dois métodos** de instala�
 2. Executar os passos opcionais de instalação do **Radiance**, do **Openstudio** e do **URBANopt**:
    - [https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps)
    - ou: baixe instaladores do **Radiance**, do **Openstudio** e do **URBANopt** relativos à versão do **Ladybug Tools** que você instalou, segundo as informações contidas na [matriz de compatibilidade](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.4-Compatibility-Matrix) para a sua versão do Ladybug Tools. Preferencialmente, instale os programas nas pastas :
-   ``` %userprofile%\ladybug_tools\radiance ``` e
-  ``` %userprofile%\ladybug_tools\openstudio ``` 
+  
+      ``` %userprofile%\ladybug_tools\radiance ``` e
+      ``` %userprofile%\ladybug_tools\openstudio ``` 
   
   (recomendado pela documentação de instalação, embora a mesma fonte diga que os programas funcionam no caminho padrão sugerido pelo instalador)
 
@@ -51,9 +52,12 @@ Compare os valores de saída do componente **HB Check Version** com as versões 
 
 #### Pastas importantes da instalação do LadybugTools:
 
-- Pasta da instalação do Ladybug tools: 
-        ``` %userprofile%\ladybug_tools ```
-- Pasta da instalação dos **Plugins** do **Grasshopper**: 
-        ``` %APPDATA%\Grasshopper ```
+- Pasta da instalação do Ladybug tools:
+      
+   ``` %userprofile%\ladybug_tools ```
+- Pasta da instalação dos **Plugins** do **Grasshopper**:
+      
+   ``` %APPDATA%\Grasshopper ```
 - Pasta de download dos dados climáticos:
-        ``` C:\ladybug ```
+      
+   ``` C:\ladybug ```
