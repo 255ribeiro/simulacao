@@ -20,12 +20,12 @@ Uma vez que o Rhinoceros esteja instalado, existem **dois métodos** de instala�
 ### Método 1: Instalação o plug-in Pollination:
 
 1. Clique no Link [https://www.pollination.cloud/](https://www.pollination.cloud/) - é preciso fazer uma conta no site do pollination para baixar o instalador.
-2. Baixe o instalador do plugin do Pollination para Grasshopper - no link [https://app.pollination.solutions/cad-plugins](https://app.pollination.solutions/cad-plugins) ou seguindo os passos registrados no gif abaixo.
-3. Baixe o instalador para **Grasshopper**
+1. Baixe o instalador do plugin do Pollination para Grasshopper - no link [https://app.pollination.solutions/cad-plugins](https://app.pollination.solutions/cad-plugins) ou seguindo os passos registrados no gif abaixo.
+1. Baixe o instalador para **Grasshopper**
 
 ![Pollination install](pollination_install.gif)
 
-3. Rode o instalador e siga as instruções.
+1. Rode o instalador e siga as instruções.
 
 
 
@@ -37,7 +37,7 @@ Uma vez que o Rhinoceros esteja instalado, existem **dois métodos** de instala�
 1. Seguir as instruções de instalação.
    - link: [https://github.com/ladybug-tools/lbt-grasshopper/wiki](https://github.com/ladybug-tools/lbt-grasshopper/wiki)
 
-2. Executar os passos opcionais de instalação do **Radiance**, do **Openstudio** e do **URBANopt**:
+1. Executar os passos opcionais de instalação do **Radiance**, do **Openstudio** e do **URBANopt**:
    - [https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.1-Windows-Installation-Steps#optional-steps)
    - ou: baixe instaladores do **Radiance**, do **Openstudio** e do **URBANopt** relativos à versão do **Ladybug Tools** que você instalou, segundo as informações contidas na [matriz de compatibilidade](https://github.com/ladybug-tools/lbt-grasshopper/wiki/1.4-Compatibility-Matrix) para a sua versão do Ladybug Tools.
 
