@@ -58,8 +58,6 @@ _______
    1. [Psychometric Chart](./psychometric/psychart.md)
    
 
-   
-   
 ### Salvando Imagens das telas do Rhinoceros e do Grasshopper
 
 [Guia de geração de imagens raster](./print_view/print_de_viewport.md)
