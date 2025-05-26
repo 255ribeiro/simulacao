@@ -124,7 +124,7 @@ _______
 
  1. [Otimização estocástica](./galapagos_lb/otimiza.md)
 
- 2. [HONNEYBEE - PREPARAÇÃO DO ARQUIVO](./HONEYBEE_101/hb_101.md)
+ 2. [HONEYBEE - PREPARAÇÃO DO ARQUIVO](./HONEYBEE_101/hb_101.md)
 
 
 _______
