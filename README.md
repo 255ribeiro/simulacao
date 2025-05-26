@@ -2,13 +2,14 @@
 
 _______
 
-<!-- ## MBI BIM | SENAI-CIMATEC | 2022 -->
-
 ### Prof. Fernando Ferraz Ribeiro | ffribeiro@gmail.com
 
-_______
 
-### [Programa da Disciplina](./mbi_bim_cimatec/programa_da_disciplina.md)
+<!-- _______ -->
+
+<!-- ## MBI BIM | SENAI-CIMATEC | 2022 -->
+
+<!-- ### [Programa da Disciplina](./mbi_bim_cimatec/programa_da_disciplina.md) -->
 
 <!-- ### [Edital de Avaliação](./edital/edital_01.md) -->
 
