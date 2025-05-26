@@ -2,7 +2,7 @@
 
 _______
 
-## MBI BIM | SENAI-CIMATEC | 2022
+<!-- ## MBI BIM | SENAI-CIMATEC | 2022 -->
 
 ### Prof. Fernando Ferraz Ribeiro | ffribeiro@gmail.com
 
