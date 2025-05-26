@@ -168,7 +168,7 @@ _______
 
 - [Hydra](https://hydrashare.github.io/hydra/)
 
-- [Tutorial openstudio quick start](https://www.youtube.com/watch?v=9H08kPjY6UI&t=207s)
+- [Tutorial OpenStudio quick start](https://www.youtube.com/watch?v=9H08kPjY6UI&t=207s)
 
 ---------
 ---------
