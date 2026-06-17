@@ -9,4 +9,3 @@
 [Arquivo final](./hourly_chart.gh)
 
 ![alg](./alg_hoy_chart.png)
-
