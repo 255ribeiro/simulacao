@@ -8,7 +8,6 @@
 1. Caso o **Rhinoceros** seja instalado em português, mudar o idioma para inglês.
    - Instruções: [https://wiki.mcneel.com/rhino/6/addlanguages](https://wiki.mcneel.com/rhino/6/addlanguages)
 
-
 ## Instalação do Ladybug Tools
 
 Uma vez que o Rhinoceros esteja instalado, existem **dois métodos** de instalação do LadyBugTools.
@@ -19,7 +18,7 @@ Uma vez que o Rhinoceros esteja instalado, existem **dois métodos** de instala�
 
 ### Método 1: Instalação o plug-in Pollination
 
-#### Esse método funciona apenas para windows. Instala em **TODOS** os usuários do computador.
+#### Esse método funciona apenas para windows. Instala em **TODOS** os usuários do computador. Recomendado tanto para usuários individuais quanto para laboratórios de ensino.
 
 
 1. Clique no Link [https://www.pollination.cloud/](https://www.pollination.cloud/) - é preciso fazer uma conta no site do pollination para baixar o instalador.
@@ -32,7 +31,7 @@ Uma vez que o Rhinoceros esteja instalado, existem **dois métodos** de instala�
 
 ### Método 2: Instalando o LadyBugTools e todas as dependências
 
-#### Esse método funciona para Windows e MAC e a instalação é apenas para o usuário atual. Não é recomendado para laboratórios de ensino!
+#### Esse método funciona para Windows e MAC e a instalação é apenas para o usuário atual. **Não é** recomendado para laboratórios de ensino!
 
 1. Baixar o **Ladybugtools**.
    - Link : [https://www.food4rhino.com/en/app/ladybug-tools#downloads_list](https://www.food4rhino.com/en/app/ladybug-tools#downloads_list) - é preciso fazer uma conta no site para baixar.
