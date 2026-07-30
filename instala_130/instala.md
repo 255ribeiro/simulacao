@@ -17,7 +17,10 @@ Uma vez que o Rhinoceros esteja instalado, existem **dois métodos** de instala�
 
 2. A outra é usando o instalador do LadyBugTools, para essa instalação funcionar, é necessário instalar todas as dependências conforme instruções na documentação.
 
-### Método 1: Instalação o plug-in Pollination:
+### Método 1: Instalação o plug-in Pollination
+
+#### Esse método funciona apenas para windows. Instala em **TODOS** os usuários do computador.
+
 
 1. Clique no Link [https://www.pollination.cloud/](https://www.pollination.cloud/) - é preciso fazer uma conta no site do pollination para baixar o instalador.
 1. Baixe o instalador do plugin do Pollination para Grasshopper - no link [https://app.pollination.solutions/cad-plugins](https://app.pollination.solutions/cad-plugins) ou seguindo os passos registrados no gif abaixo.
@@ -27,9 +30,9 @@ Uma vez que o Rhinoceros esteja instalado, existem **dois métodos** de instala�
 
 1. Rode o instalador e siga as instruções.
 
+### Método 2: Instalando o LadyBugTools e todas as dependências
 
-
-### Método 2: Instalando o LadyBugTools e todas as dependências:
+#### Esse método funciona para Windows e MAC e a instalação é apenas para o usuário atual. Não é recomendado para laboratórios de ensino!
 
 1. Baixar o **Ladybugtools**.
    - Link : [https://www.food4rhino.com/en/app/ladybug-tools#downloads_list](https://www.food4rhino.com/en/app/ladybug-tools#downloads_list) - é preciso fazer uma conta no site para baixar.
